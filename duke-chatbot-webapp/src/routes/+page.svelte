@@ -10,6 +10,26 @@
 	import ChatInput from '../components/chatInput.svelte';
     import ChatMessage from '../components/chatMessage.svelte';
     import Logo from '../components/logo.svelte';
+
+    let messages = $state([]);
+    let messageNumber = $state(0);
+    let loading = $state(false);
+
+    async function sendUserMessage(message) {
+        loading = true;
+        messages = [{
+            role: 'user',
+            content: message,
+            id: messageNumber++,
+        }, ...messages];
+        await new Promise(resolve => setTimeout(resolve, 1000));
+        messages = [{
+            role: 'assistant',
+            content: 'Hello, how can I help you today?',
+            id: messageNumber++,
+        }, ...messages];
+        loading = false;
+    }
 </script>
 <div class="flex flex-col h-screen justify-between">
     <Header>
@@ -24,14 +44,14 @@
     <Body>
         <Chat>
             <ChatMessageContainer>
-                <ChatMessage message="Hello, how are you?" role="user" />
-                <ChatMessage message="I'm fine, thank you!" role="assistant" />
+                {#each messages as message (message.id)}
+                    <ChatMessage message={message.content} role={message.role} />
+                {/each}
             </ChatMessageContainer>
-            <ChatInput />
+            <ChatInput onSend={sendUserMessage} loading={loading} />
         </Chat>
     </Body>
     <Footer>
         <p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
     </Footer>
 </div>
-
