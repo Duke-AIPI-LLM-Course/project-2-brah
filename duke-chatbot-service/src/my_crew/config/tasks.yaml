@@ -1,0 +1,6 @@
+program_director_task:
+  description: >
+    Conduct a thorough research about the user's question: {question}
+  expected_output: >
+    A formatted answer for the user's question: {question}
+  agent: program_director

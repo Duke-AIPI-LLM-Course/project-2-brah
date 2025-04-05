@@ -1,4 +1,0 @@
-# Requirements for the Duke Chatbot Service
-
-# Python
-python-dotenv==1.1.0
