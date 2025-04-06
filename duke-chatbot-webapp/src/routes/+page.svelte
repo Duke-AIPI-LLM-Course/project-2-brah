@@ -11,6 +11,8 @@
     import ChatMessage from '../components/chatMessage.svelte';
     import Logo from '../components/logo.svelte';
 
+    import { v4 as uuidv4 } from 'uuid';
+
     let messages = $state([]);
     let messageNumber = $state(0);
     let loading = $state(false);
@@ -20,14 +22,14 @@
         messages = [{
             role: 'user',
             content: message,
-            id: messageNumber++,
+            id: uuidv4(),
         }, ...messages];
-        await new Promise(resolve => setTimeout(resolve, 1000));
-        messages = [{
-            role: 'assistant',
-            content: 'Hello, how can I help you today?',
-            id: messageNumber++,
-        }, ...messages];
+        let response = await fetch('/completions', {
+            method: 'POST',
+            body: JSON.stringify({ messages }),
+        });
+        let data = await response.json();
+        messages = data.messages;
         loading = false;
     }
 </script>

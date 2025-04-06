@@ -6,8 +6,9 @@
     let message = $state('');
 
     async function handleSubmit(event) {
-        await onSend(message);
+        const messageToSend = message;
         message = '';
+        await onSend(messageToSend);
     }
 
     function handleInput(event) {
