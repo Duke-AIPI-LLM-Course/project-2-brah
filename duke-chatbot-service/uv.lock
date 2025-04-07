@@ -1951,10 +1951,14 @@ version = "0.1.0"
 source = { editable = "." }
 dependencies = [
     { name = "crewai", extra = ["tools"] },
+    { name = "serpapi" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "crewai", extras = ["tools"], specifier = ">=0.108.0,<1.0.0" }]
+requires-dist = [
+    { name = "crewai", extras = ["tools"], specifier = ">=0.108.0,<1.0.0" },
+    { name = "serpapi", specifier = ">=0.1.5" },
+]
 
 [[package]]
 name = "mypy-extensions"
@@ -3205,6 +3209,18 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/d4/01/0ea2e66bad2f13271e93b729c653747614784d3ebde219679e41ccdceecd/schema-0.7.7.tar.gz", hash = "sha256:7da553abd2958a19dc2547c388cde53398b39196175a9be59ea1caf5ab0a1807", size = 44245 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/ad/1b/81855a88c6db2b114d5b2e9f96339190d5ee4d1b981d217fa32127bb00e0/schema-0.7.7-py2.py3-none-any.whl", hash = "sha256:5d976a5b50f36e74e2157b47097b60002bd4d42e65425fcc9c9befadb4255dde", size = 18632 },
+]
+
+[[package]]
+name = "serpapi"
+version = "0.1.5"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "requests" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/f0/fa/3fd8809287f3977a3e752bb88610e918d49cb1038b14f4bc51e13e594197/serpapi-0.1.5.tar.gz", hash = "sha256:b9707ed54750fdd2f62dc3a17c6a3fb7fa421dc37902fd65b2263c0ac765a1a5", size = 14191 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/df/6a/21deade04100d64844e494353a5d65e7971fbdfddf78eb1f248423593ad0/serpapi-0.1.5-py2.py3-none-any.whl", hash = "sha256:6467b6adec1231059f754ccaa952b229efeaa8b9cae6e71f879703ec9e5bb3d1", size = 10966 },
 ]
 
 [[package]]
