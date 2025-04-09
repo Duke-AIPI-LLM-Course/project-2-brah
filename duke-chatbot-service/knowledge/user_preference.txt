@@ -1,4 +1,4 @@
 User name is John Doe.
-User is an AI Engineer.
-User is interested in AI Agents.
+User is an undergraduate student.
+User is interested in pursuing a masters degree at Duke.
 User is based in San Francisco, California.
