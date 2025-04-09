@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import sys
 import warnings
+import time
 
 from datetime import datetime
 
@@ -18,13 +19,18 @@ def run():
     Run the crew.
     """
     inputs = {
-        'question': 'When was the AIPI program founded.'
+        'question': 'How much does it cost to finish the AI product innovation masters program at Duke in 12 months?'
     }
     
     try:
+        start_time = time.time()  # Start time measurement
         MyCrew().crew().kickoff(inputs=inputs)
+        end_time = time.time()  # End time measurement
+        total_time = end_time - start_time  # Calculate total time taken
+        print(f"Total Task Completion Time: {total_time:.2f} seconds")  # Print the total time
     except Exception as e:
         raise Exception(f"An error occurred while running the crew: {e}")
+
 
 
 def train():

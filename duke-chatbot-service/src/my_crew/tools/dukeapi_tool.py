@@ -26,7 +26,7 @@ structured_tool = create_structured_tool()
 
 # Execute the tool with structured input
 result = structured_tool._run(**{
-    "endpoint": "https://streamer.oit.duke.edu/curriculum/courses/subject/AAAS%20-%20African%20%26%20African%20Amer%20Studies",
-    "parameters": {"key1": "value1", "key2": "value2"}
+    "endpoint": "https://calendar.duke.edu/events/index.json?&gfu[]=Academic%20Resource%20Center%20%28ARC%29&future_days=45&feed_type=simple",
+    "parameters": {"events": []}
 })
 print(result)  # Output: Call the API at https://example.com/api with parameters {'key1': 'value1', 'key2': 'value2'}
