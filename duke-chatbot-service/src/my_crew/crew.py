@@ -3,7 +3,8 @@ from crewai.project import CrewBase, agent, crew, task
 from crewai_tools import (
     WebsiteSearchTool
 )
-from my_crew.tools.dukeapi_tool import create_structured_tool
+#from my_crew.tools.dukeapi_tool import create_structured_tool
+from my_crew.tools.dukeapi_tool import duke_api_tool
 
 # If you want to run a snippet of code before or after the crew starts,
 # you can use the @before_kickoff and @after_kickoff decorators
@@ -23,11 +24,11 @@ class MyCrew():
     # https://docs.crewai.com/concepts/agents#agent-tools
     @agent
     def program_director(self) -> Agent:
-        duke_api_tool = create_structured_tool()
+        #duke_api_tool = create_structured_tool()
         return Agent(
             config=self.agents_config['program_director'],
             verbose=True,
-            tools=[WebsiteSearchTool(), duke_api_tool]
+            tools=[WebsiteSearchTool(website='https://masters.pratt.duke.edu/ai/degree/', 'https://masters.pratt.duke.edu/admissions/tuition-financial-aid/'), duke_api_tool]
         )
 
     # To learn more about structured task outputs,
