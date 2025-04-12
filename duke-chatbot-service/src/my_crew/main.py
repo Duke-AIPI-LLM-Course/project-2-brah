@@ -56,16 +56,17 @@ def replay():
     except Exception as e:
         raise Exception(f"An error occurred while replaying the crew: {e}")
 
-def test():
+def test(n_iterations='2', model='gpt-4o-mini'):
     """
     Test the crew execution and returns the results.
     """
     inputs = {
         "topic": "AI LLMs",
-        "current_year": str(datetime.now().year)
+        "current_year": str(datetime.now().year),
+        "question": "What are the events for the next 50 days?"
     }
     try:
-        MyCrew().crew().test(n_iterations=int(sys.argv[1]), openai_model_name=sys.argv[2], inputs=inputs)
-
+        MyCrew().crew().test(int(n_iterations), model, inputs=inputs)
+        
     except Exception as e:
         raise Exception(f"An error occurred while testing the crew: {e}")
