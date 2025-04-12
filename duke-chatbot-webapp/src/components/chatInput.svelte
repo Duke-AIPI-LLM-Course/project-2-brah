@@ -5,6 +5,8 @@
 
     let message = $state('');
 
+    let placeholder = $derived(loading ? 'Thinking...' : 'Ask a question about Duke University');
+
     async function handleSubmit(event) {
         const messageToSend = message;
         message = '';
@@ -16,6 +18,6 @@
     }
 </script>
 <form class="flex flex-row w-full p-2 bg-gray-800 text-white rounded-lg" onsubmit={handleSubmit}>
-    <input disabled={loading} type="text" class="w-full p-2 bg-gray-800 text-white rounded-lg" bind:value={message} oninput={handleInput} />
+    <input disabled={loading} type="text" class="w-full p-2 bg-gray-800 text-white rounded-lg" bind:value={message} oninput={handleInput} placeholder={placeholder} />
     <button type="submit"><Icon src={PaperAirplane} class="w-6 h-6 pl-2" /></button>
 </form>

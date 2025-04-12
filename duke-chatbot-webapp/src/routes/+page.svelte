@@ -14,7 +14,6 @@
     import { v4 as uuidv4 } from 'uuid';
 
     let messages = $state([]);
-    let messageNumber = $state(0);
     let loading = $state(false);
 
     async function sendUserMessage(message) {
@@ -54,6 +53,6 @@
         </Chat>
     </Body>
     <Footer>
-        <p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+        <p>© Copyright 2025 — All Rights Reserved</p>
     </Footer>
 </div>

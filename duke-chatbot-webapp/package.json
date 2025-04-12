@@ -37,6 +37,7 @@
 		"vite": "^6.0.0"
 	},
 	"dependencies": {
+		"svelte-exmarkdown": "^5.0.0",
 		"uuid": "^11.1.0"
 	}
 }
