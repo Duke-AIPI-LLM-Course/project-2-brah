@@ -40,3 +40,19 @@ This example, unmodified, will run the create a `report.md` file with the output
 
 The my-crew Crew is composed of multiple AI agents, each with unique roles, goals, and tools. These agents collaborate on a series of tasks, defined in `config/tasks.yaml`, leveraging their collective skills to achieve complex objectives. The `config/agents.yaml` file outlines the capabilities and configurations of each agent in your crew.
 
+## Running the FastAPI Application
+
+To run the FastAPI application, first ensure you have set up your OpenAI API key:
+
+```bash
+export OPENAI_API_KEY=your_key
+```
+
+Then, from the root folder of your project, run:
+
+```bash
+python -m src.my_crew.app
+```
+
+This will start the FastAPI server, typically running on `http://127.0.0.1:8000`. You can access the API documentation at `http://127.0.0.1:8000/docs`.
+
