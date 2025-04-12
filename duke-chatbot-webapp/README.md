@@ -1,20 +1,19 @@
-# sv
+# Duke AIPI590 Chatbot Web Application
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+A Svelte-based frontend application for the Duke AIPI590 Chatbot project.
 
-## Creating a project
+## Deployment
 
-If you're seeing this, you've probably already done this step. Congrats!
+The application is deployed at: https://duke-aipi590-brah.vercel.app/
 
-```bash
-# create a new project in the current directory
-npx sv create
+## Environment Setup
 
-# create a new project in my-app
-npx sv create my-app
-```
+1. Create a `.env` file in the root directory of the project
+2. Copy the contents from `.env.example` and update the values as needed
+3. Required environment variables:
+   - `API_BASE_URL`: The URL of the backend API service (default: http://localhost:8000)
 
-## Developing
+## Development
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
