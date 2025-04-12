@@ -4,7 +4,7 @@ from pydantic import BaseModel
 import requests
 
 @tool
-def duke_api_tool(future_days: int):
+def duke_event_api_tool(future_days: int):
     '''
     Calls the Duke Events API
 
