@@ -1,9 +1,8 @@
 program_director_task:
   description: >
     Conduct a thorough research about the user's question: {question}.
-    Use the provided tools. For the SpiderTool, start crawling from 
-    https://masters.pratt.duke.edu/ai/degree/ to answer questions about the Master's of Engineering in AI (AIPI) program.
-    Start crawling from https://duke.edu/ to answer general questions about Duke University.
+    Use the provided tools. For questions where the APIs won't provide the relevant information, use the SerperDevTool to search Google
+    and then use the WebsiteSearchTool to search the top result.
   expected_output: >
     A formatted answer for the user's question: {question}
   agent: program_director

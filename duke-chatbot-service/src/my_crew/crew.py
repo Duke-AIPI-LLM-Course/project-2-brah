@@ -1,7 +1,8 @@
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
 from crewai_tools import (
-    WebsiteSearchTool
+    WebsiteSearchTool,
+    SerperDevTool
 )
 #from my_crew.tools.dukeapi_tool import create_structured_tool
 from my_crew.tools.dukeapi_tool import duke_event_api_tool, duke_course_api_tool
@@ -29,9 +30,10 @@ class MyCrew():
             config=self.agents_config['program_director'],
             verbose=True,
             tools=[
-                WebsiteSearchTool(website='https://masters.pratt.duke.edu/ai/degree/'), 
+                WebsiteSearchTool(),
                 duke_event_api_tool,
-                duke_course_api_tool
+                duke_course_api_tool,
+                SerperDevTool(n_results=1)
             ]
         )
 
