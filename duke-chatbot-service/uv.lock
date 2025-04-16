@@ -1951,13 +1951,17 @@ version = "0.1.0"
 source = { editable = "." }
 dependencies = [
     { name = "crewai", extra = ["tools"] },
+    { name = "fastapi" },
     { name = "serpapi" },
+    { name = "uvicorn" },
 ]
 
 [package.metadata]
 requires-dist = [
     { name = "crewai", extras = ["tools"], specifier = ">=0.108.0,<1.0.0" },
+    { name = "fastapi", specifier = ">=0.115.12" },
     { name = "serpapi", specifier = ">=0.1.5" },
+    { name = "uvicorn", specifier = ">=0.27.1" },
 ]
 
 [[package]]

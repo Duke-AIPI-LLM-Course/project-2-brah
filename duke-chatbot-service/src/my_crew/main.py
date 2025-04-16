@@ -19,7 +19,7 @@ def run():
     Run the crew.
     """
     inputs = {
-        'question': 'How much does it cost to finish the AIPI program in 12 months?'
+        'question': 'What are some places to eat on Duke campus?'
     }
     
     try:
