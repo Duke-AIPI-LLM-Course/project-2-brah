@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import requests
+import time
 from openai import OpenAI
 from dotenv import load_dotenv
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -64,7 +65,10 @@ def create_question_set(filename="duke_questions.csv"):
                 "Chatbot_Response": "",
                 "GPT4o_Response": "",
                 "Cosine_Similarity": 0.0,
-                "BLEU_Score": 0.0
+                "BLEU_Score": 0.0,
+                "Instruction_Adherence": 0.0,
+                "Accuracy": 0.0,
+                "Response_Time": 0.0
             })
     df = pd.DataFrame(data)
 
@@ -84,17 +88,21 @@ def query_custom_chatbot(question):
         question (str): The input question.
 
     Returns:
-        str: Textual response from your chatbot or error fallback.
+        tuple: (str, float) Textual response from your chatbot and time taken in seconds
     """
     try:
         url = "https://duke-chatbot-service-518487429487.us-central1.run.app/ask"
         params = {"question": question}
+        
+        start_time = time.time()
         response = requests.get(url, params=params)
+        response_time = time.time() - start_time
+        
         response.raise_for_status()
-        return response.json().get("answer", "[No 'answer' key in response]")
+        return response.json().get("answer", "[No 'answer' key in response]"), response_time
     except Exception as e:
         print(f"Custom chatbot error for '{question}': {e}")
-        return "[Error from custom chatbot]"
+        return "[Error from custom chatbot]", -1.0
 
 
 def query_gpt4o(question):
@@ -116,14 +124,14 @@ def query_gpt4o(question):
 
 def evaluate_similarity(custom_response, gpt_response):
     """
-    Compute cosine similarity and BLEU score between two responses.
+    Compute cosine similarity, BLEU score, and GPT-4o judge scores between two responses.
 
     Args:
         custom_response (str): Response from your chatbot.
         gpt_response (str): Reference GPT-4o response.
 
     Returns:
-        (float, float): Cosine similarity, BLEU score
+        (float, float, float, float): Cosine similarity, BLEU score, instruction adherence score, accuracy score
     """
     try:
         tfidf = TfidfVectorizer().fit_transform([custom_response, gpt_response])
@@ -134,7 +142,39 @@ def evaluate_similarity(custom_response, gpt_response):
         bleu = sentence_bleu([gpt_response.split()], custom_response.split())
     except:
         bleu = 0.0
-    return cosine, bleu
+        
+    # GPT-4o judge evaluation for instruction adherence and accuracy
+    try:
+        judge_prompt = f"""You are a fair judge evaluating a chatbot response against a reference answer.
+        
+Reference Answer: {gpt_response}
+Chatbot Response: {custom_response}
+
+On a scale of 0.0 to 1.0 (where 1.0 is perfect), evaluate ONLY these two aspects:
+1. Instruction Adherence: How well the chatbot followed and addressed the underlying instruction/question
+2. Accuracy: How factually accurate the chatbot's response is compared to the reference
+
+Return your evaluation as a JSON with ONLY numeric scores:
+{{"instruction_adherence": score, "accuracy": score}}
+"""
+        
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[{"role": "user", "content": judge_prompt}],
+            response_format={"type": "json_object"}
+        )
+        
+        scores = response.choices[0].message.content
+        import json
+        score_dict = json.loads(scores)
+        instruction_adherence = float(score_dict.get("instruction_adherence", 0.0))
+        accuracy = float(score_dict.get("accuracy", 0.0))
+    except Exception as e:
+        print(f"Error in GPT judge evaluation: {e}")
+        instruction_adherence = 0.0
+        accuracy = 0.0
+        
+    return cosine, bleu, instruction_adherence, accuracy
 
 
 def populate_and_evaluate(filename="duke_questions.csv"):
@@ -151,16 +191,20 @@ def populate_and_evaluate(filename="duke_questions.csv"):
 
     for i, row in df.iterrows():
         question = row["Question"]
-        chatbot_resp = query_custom_chatbot(question)
-        gpt4_resp = query_gpt4o(question)
-        cosine, bleu = evaluate_similarity(chatbot_resp, gpt4_resp)
+        chatbot_resp, response_time = query_custom_chatbot(question)
+        # gpt4_resp = query_gpt4o(question)
+        gpt4_resp = row["GPT4o_Response"]
+        cosine, bleu, instruction_adherence, accuracy = evaluate_similarity(chatbot_resp, gpt4_resp)
 
         df.at[i, "Chatbot_Response"] = chatbot_resp
-        df.at[i, "GPT4o_Response"] = gpt4_resp
+        # df.at[i, "GPT4o_Response"] = gpt4_resp
         df.at[i, "Cosine_Similarity"] = cosine
         df.at[i, "BLEU_Score"] = bleu
+        df.at[i, "Instruction_Adherence"] = instruction_adherence
+        df.at[i, "Accuracy"] = accuracy
+        df.at[i, "Response_Time"] = response_time
 
-        print(f"[{i+1}/{len(df)}] Done: {question[:60]}...")
+        print(f"[{i+1}/{len(df)}] Done: {question[:60]}... (Response time: {response_time:.2f}s)")
 
     df.to_csv(filename, index=False)
     print(f"\nEvaluation complete. Saved to: {filename}")
@@ -172,11 +216,13 @@ def main():
     Run the full pipeline: generate questions, get responses, evaluate.
     """
     filename = "duke_questions.csv"
-    print("Generating all questions...")
-    create_question_set(filename)
-    print("Populating responses and evaluating metrics...")
-    populate_and_evaluate(filename)
-    print("All results saved to duke_questions.csv")
+    # print("Generating all questions...")
+    # create_question_set(filename)
+    #print("Populating responses and evaluating metrics...")
+    #populate_and_evaluate(filename)
+    #print("All results saved to duke_questions.csv")
+    df = pd.read_csv(filename)
+    print(df.describe())
 
 
 if __name__ == "__main__":

@@ -1,16 +1,50 @@
-Category,Question,Chatbot_Response,GPT4o_Response,Cosine_Similarity,BLEU_Score
-AI MEng Program,Certainly! Here are 10 unique and relevant questions that prospective students or interested individuals might have about the AI Master of Engineering (MEng) program at Duke University:,"Here are 10 unique and relevant questions that prospective students or interested individuals might have about the AI Master of Engineering (MEng) program at Duke University:
+Category,Question,Chatbot_Response,GPT4o_Response,Cosine_Similarity,BLEU_Score,Instruction_Adherence,Accuracy,Response_Time
+AI MEng Program,Certainly! Here are 10 unique and relevant questions that prospective students or interested individuals might have about the AI Master of Engineering (MEng) program at Duke University:,"Certainly! Here are 10 unique and relevant questions that prospective students or interested individuals might have about the AI Master of Engineering (MEng) program at Duke University:
 
-1. What specific skills do I need to develop for admission into the AI Master of Engineering program?
-2. How does the AI Master of Engineering program at Duke integrate hands-on experience with theoretical learning?
-3. What are the career prospects for graduates of the AI Master of Engineering program from Duke University?
-4. Can you explain the difference between the Master of Engineering in AI versus other engineering master's programs?
-5. What types of research opportunities are available to students in the AI Master of Engineering program?
-6. Are there any prerequisites that I need to be aware of before applying to the program?
-7. How does the curriculum support interdisciplinary learning and collaboration with other departments?
-8. What kinds of projects do students typically undertake during their studies?
-9. How does Duke's location in the Research Triangle contribute to opportunities in AI and engineering?
-10. What resources, such as labs or industry partnerships, does Duke provide to enhance the learning experience in AI?","Sure! Here are ten unique and relevant questions that prospective students or interested individuals might have about the AI Master of Engineering (MEng) program at Duke University:
+1. **What are the admission requirements for the AI Master of Engineering program?**
+   - Prospective students typically need a bachelor's degree in engineering, computer science, or a related field, along with GRE scores, letters of recommendation, and a statement of purpose.
+
+2. **What does the curriculum for the AI Master of Engineering program include?**
+   - The curriculum includes courses such as:
+     - AIPI Seminar
+     - AIPI Workshops
+     - Python Bootcamp
+     - Introductory Residency
+     - Mid-Program Residency
+     - Concluding Residency
+     - Sourcing Data for Analytics
+     - Modeling Process and Algorithms
+     - Optimization in Practice
+     - Deep Reinforcement Learning Applications
+     - Deep Learning Applications
+     - Capstone Practicum
+     - Legal, Societal, and Ethical Implications of AI
+     - Operationalizing AI
+     - Advanced Topics in AI for Product Innovation
+
+3. **Are there opportunities for internships or collaborative projects during the program?**
+   - Yes, students have opportunities to engage in internships and collaborative projects with industry partners through various courses and events.
+
+4. **What is the duration of the AI Master of Engineering program?**
+   - The program typically lasts for one to two years, depending on the student’s pace and course load.
+
+5. **What skills or knowledge do I need before applying to the program?**
+   - A strong foundation in programming, data analysis, and basic understanding of AI concepts is essential. Familiarity with Python is highly recommended.
+
+6. **How does Duke University's AI Master of Engineering program differentiate itself from other similar programs?**
+   - Duke’s program emphasizes hands-on learning and industry collaboration, providing students with practical experiences in AI applications.
+
+7. **What career support services are available to students in the program?**
+   - Career services include resume workshops, interview preparation, and networking events with industry professionals.
+
+8. **What are the potential career paths after completing the AI Master of Engineering program?**
+   - Graduates can pursue careers as AI product managers, data scientists, machine learning engineers, and AI analysts in various industries.
+
+9. **Can students participate in research while enrolled in the program?**
+   - Yes, students are encouraged to participate in research, with access to faculty projects and labs focused on AI technologies.
+
+10. **What are the costs and available financial aid options for the program?**
+    - Tuition costs vary and financial aid options include scholarships, assistantships, and loans. Students should consult the financial aid office for detailed information.","Sure! Here are ten unique and relevant questions that prospective students or interested individuals might have about the AI Master of Engineering (MEng) program at Duke University:
 
 1. **Curriculum Focus**: What are the core courses and electives offered in the AI Master of Engineering program, and how do they prepare students for careers in AI?
 
@@ -32,81 +66,56 @@ AI MEng Program,Certainly! Here are 10 unique and relevant questions that prospe
 
 10. **Facilities and Resources**: What are the key facilities and resources available to MEng students, such as labs, computing resources, and collaboration spaces?
 
-These questions can help prospective students gain a deeper understanding of the program and how it aligns with their career goals and interests.",0.6893876012971194,0.16725268914978986
-AI MEng Program,"What are the core courses and electives offered in the AI MEng program at Duke University, and how do they contribute to a comprehensive understanding of artificial intelligence?","The AI MEng program at Duke University includes a variety of core courses and electives designed to provide students with a comprehensive understanding of artificial intelligence. Below is an overview of the courses offered:
+These questions can help prospective students gain a deeper understanding of the program and how it aligns with their career goals and interests.",0.7703865850185946,0.11225939996206952,0.8,0.9,22.073216915130615
+AI MEng Program,"What are the core courses and electives offered in the AI MEng program at Duke University, and how do they contribute to a comprehensive understanding of artificial intelligence?","The AI MEng program at Duke University offers a range of core courses and electives aimed at providing a comprehensive understanding of artificial intelligence. Here are the key courses available:
 
-### Core Courses:
-1. **AIPI 501 - AIPI Seminar**
-   - Availability: Fall and/or Spring
-   - Description: This seminar focuses on advanced topics related to AI and product innovation. 
+**Core Courses:**
+1. **AIPI 501: AIPI Seminar** (Available Fall/Spring)
+   - Focuses on the foundational concepts of AI and its applications in product innovation.
 
-2. **AIPI 502 - AIPI Workshops**
-   - Availability: Fall and/or Spring
-   - Description: Hands-on workshops that emphasize practical applications of AI techniques.
+2. **AIPI 502: AIPI Workshops** (Available Fall/Spring)
+   - Provides hands-on experience in applying AI techniques in real-world scenarios through workshops.
 
-3. **AIPI 503 - Python Bootcamp**
-   - Availability: Occasionally
-   - Description: This course is designed to teach the foundational programming skills necessary for AI applications using Python.
+3. **AIPI 504: Introductory Residency** (Fall Only)
+   - An introductory course that immerses students in practical applications of AI.
 
-4. **AIPI 504 - Introductory Residency**
-   - Availability: Fall Only
-   - Description: An introductory residency that immerses students into the AI product landscape. 
+4. **AIPI 505: Mid-Program Residency** 
+   - A practical residency that allows students to work on applied AI projects.
 
-5. **AIPI 505 - Mid-Program Residency**
-   - Availability: Varies
-   - Description: A mid-program residency to assess progress and refine skill sets.
+5. **AIPI 506: Concluding Residency** (Occasionally)
+   - A capstone experience for students to demonstrate their mastery of AI concepts in practice.
 
-6. **AIPI 506 - Concluding Residency**
-   - Availability: Occasionally
-   - Description: A culminating residency experience to finalize learning outcomes.
+6. **AIPI 510: Sourcing Data for Analytics** (Fall Only)
+   - Teaches methods for sourcing and handling data critical for AI and analytics.
 
-7. **AIPI 510 - Sourcing Data for Analytics**
-   - Availability: Fall Only
-   - Description: This course provides insights into effectively sourcing data crucial for AI and analytics.
+7. **AIPI 520: Modeling Process and Algorithms** (Available Fall/Spring)
+   - Covers the algorithms and modeling techniques necessary for successful AI applications.
 
-8. **AIPI 520 - Modeling Process and Algorithms**
-   - Availability: Fall and/or Spring
-   - Description: Students learn about various modeling techniques and algorithms in AI.
+8. **AIPI 530: Optimization in Practice** (Fall Only)
+   - Focuses on optimization methods used in AI product development.
 
-9. **AIPI 530 - Optimization in Practice**
-   - Availability: Fall Only
-   - Description: Focuses on practical applications of optimization in AI systems.
+9. **AIPI 540: Deep Learning Applications** (Spring Only)
+   - Explores applications of deep learning in various fields.
 
-10. **AIPI 531 - Deep Reinforcement Learning Applications**
-   - Availability: Fall Only
-   - Description: Exploration of advanced applications of deep reinforcement learning.
+10. **AIPI 549: Capstone Practicum 1** (Spring Only)
+    - A hands-on practice course where students apply their knowledge in real projects.
 
-11. **AIPI 540 - Deep Learning Applications**
-   - Availability: Spring Only
-   - Description: Covers applications of deep learning in real-world scenarios.
+11. **AIPI 560: Legal, Societal, and Ethical Implications of AI** (Summer Only, Available from 2025)
+    - Discusses the ethical and legal contexts surrounding AI technologies.
 
-12. **AIPI 549 - Capstone Practicum 1**
-   - Availability: Spring Only
-   - Description: A practical capstone project that showcases learned skills.
+12. **AIPI 561: Operationalizing AI** (Summer Only)
+    - Focuses on practical strategies for implementing AI solutions in business contexts.
 
-### Electives:
-1. **AIPI 560 - Legal, Societal, and Ethical Implications of AI**
-   - Availability: Summer Only (available from May 2025)
-   - Description: Examines the ethical and legal considerations surrounding AI innovation.
+13. **AIPI 590: Advanced Topics in AI for Product Innovation** (Available Fall/Spring)
+    - Explores advanced topics in AI and their implications for product innovation.
 
-2. **AIPI 561 - Operationalizing AI**
-   - Availability: Summer Only
-   - Description: Focuses on the processes and strategies for implementing AI solutions in organizations.
+14. **AIPI 590L: Advanced Topics in AI for Products Innovation (with Lab)** (Available Fall/Spring)
+    - A laboratory-based course that applies advanced AI concepts.
 
-3. **AIPI 590 - Advanced Topics in AI for Product Innovation**
-   - Availability: Fall and/or Spring
-   - Description: A deeper exploration of specialized topics in AI and product innovation.
+15. **AIPI 591: Special Readings in AI for Product Innovation** (Available Fall/Spring)
+    - A research-oriented course where students explore specific topics in AI.
 
-4. **AIPI 590L - Advanced Topics in AI for Products Innovation (with Lab)**
-   - Availability: Fall and/or Spring
-   - Description: Lab-based course that complements the theoretical knowledge with practical applications.
-
-5. **AIPI 591 - Special Readings in AI for Product Innovation**
-   - Availability: Fall and/or Spring
-   - Description: Focused readings from current literature in AI relevant to product innovation.
-
-### Contribution to Understanding AI:
-These courses are structured to allow students to gain both theoretical knowledge and practical skills in AI, leading to a comprehensive understanding of how to innovate using such technologies. The balance between seminars, workshops, and residencies enhances both the academic insight and hands-on experience vital in the rapidly evolving field of AI.","As of my last update, Duke University offers a Master of Engineering (MEng) program in Artificial Intelligence for Product Innovation. Here's an overview of the structure, including both core courses and electives, and how they help build a comprehensive understanding of AI:
+This curriculum is designed to equip students with both theoretical knowledge and practical skills necessary for creating innovative AI applications in various domains. Each course contributes to an understanding of how AI can be utilized to solve complex problems and drive innovation in technology and business.","As of my last update, Duke University offers a Master of Engineering (MEng) program in Artificial Intelligence for Product Innovation. Here's an overview of the structure, including both core courses and electives, and how they help build a comprehensive understanding of AI:
 
 ### Core Courses
 1. **Introductory AI and Machine Learning Courses**: These foundational courses cover the basics of AI, machine learning algorithms, data structures, and computational techniques. Topics often include supervised and unsupervised learning, neural networks, deep learning, and natural language processing.
@@ -145,24 +154,22 @@ The combination of these core and elective courses ensures that graduates have:
 
 - **Specialized Knowledge**: The ability to delve into specific areas of AI, allowing for expertise in fields of interest.
 
-This structured approach ensures that graduates are well-prepared for careers in AI, equipped with both the theoretical knowledge and practical skills essential for innovation and leadership in this rapidly evolving field. For the most current details, it's always best to check Duke University's program webpage or contact their admissions office directly.",0.5274462551493131,0.046311800807137316
-AI MEng Program,How does Duke University's AI MEng program incorporate industry partnerships and real-world applications into the curriculum?,"Duke University's Master of Engineering in Artificial Intelligence for Product Innovation program incorporates industry partnerships and real-world applications into its curriculum through several innovative strategies. The program has been developed in collaboration with industry leaders, which ensures that the core curriculum aligns closely with current market needs and expectations. 
+This structured approach ensures that graduates are well-prepared for careers in AI, equipped with both the theoretical knowledge and practical skills essential for innovation and leadership in this rapidly evolving field. For the most current details, it's always best to check Duke University's program webpage or contact their admissions office directly.",0.5275092337607079,0.04549774843660176,0.8,0.7,14.293320894241333
+AI MEng Program,How does Duke University's AI MEng program incorporate industry partnerships and real-world applications into the curriculum?,"Duke University's Master of Engineering (MEng) program in Artificial Intelligence for Product Innovation deeply integrates industry partnerships and real-world applications into its curriculum. This is achieved through several key components:
 
-Key components of the program include:
+1. **Industry-Collaborative Curriculum**: The core curriculum of the program is developed in collaboration with industry professionals, ensuring that the coursework is aligned with current industry needs and technological advancements. This collaboration allows students to learn relevant skills and methodologies that are highly sought after in the job market.
 
-1. **Industry-Collaborative Curriculum**: The curriculum is designed with direct input from the industry, which helps students build a portfolio that includes real-world, hands-on AI and machine learning projects. This practical experience is crucial for developing skills that are immediately applicable in the workforce.
+2. **Hands-On Learning**: Students engage in real-world, hands-on projects throughout their coursework. This experiential learning approach enables students to apply theoretical concepts to practical problems, thereby enhancing their understanding of AI and machine learning technologies.
 
-2. **Capstone Project**: Students undertake an Industry Capstone Project where they design practical solutions to actual problems faced by businesses. This experience helps them apply their learnings in a real-world context and collaborate with industry partners.
+3. **Industry Projects and Internships**: The program includes two major opportunities for students to work directly with industry leaders. Firstly, students participate in a semester-long industry project where they tackle actual challenges faced by businesses. Secondly, a summer internship provides students with the chance to gain practical experience and apply their knowledge in professional settings.
 
-3. **Internship Opportunities**: The curriculum includes opportunities for students to engage in internships or industry projects, allowing them to work directly with industry leaders. This experience not only enhances their learning but also expands their professional networks in the field of AI.
+4. **Portfolio Development**: Throughout their studies, students build a personal portfolio of projects that showcase their hands-on experience and problem-solving abilities in AI and machine learning. This portfolio becomes a critical asset when entering the job market.
 
-4. **Specialized Courses**: The program includes a variety of specialized courses focusing on AI and machine learning applications in different domains, including business fundamentals and ethical implications of AI. Skills in software application deployment and machine learning systems design are heavily emphasized.
+5. **Career Preparation and Networking**: The program emphasizes career development, providing students with individual advising and support from experienced faculty. Additionally, students have access to industry seminars and networking opportunities, allowing them to engage with professionals and potential employers.
 
-5. **Advising and Support from Experts**: Students receive individual academic and career advising from world-class faculty, further guiding their professional development and helping them connect with industry experts.
+6. **Small, Cohort-Based Learning Environment**: The program fosters a close-knit learning community. Students from diverse backgrounds come together in small cohorts, promoting collaboration, knowledge exchange, and networking.
 
-6. **Cohort-Based Learning**: The program fosters an intimate and immersive learning environment, where students learn alongside peers from diverse backgrounds and experiences, enhancing collaborative learning.
-
-Overall, Duke's AI MEng program effectively prepares graduates to tackle real-world challenges in AI and machine learning, making them valuable assets to their prospective employers from Day 1 of their careers. For additional details, you may refer to the program's official site [here](https://masters.pratt.duke.edu/ai/degree/).","Duke University’s AI Master of Engineering (MEng) program is designed to provide students with a strong foundation in artificial intelligence while emphasizing practical applications and industry partnerships. Here are some ways the program integrates real-world applications and industry connections:
+By intertwining academic rigor with practical application, Duke's MEng program not only equips students with essential technical skills in AI and machine learning but also ensures they are prepared to solve real-world problems from day one in their careers. This unique blend of education and real-world experience positions graduates as competitive candidates across various fields, including technology, healthcare, finance, and entrepreneurship.","Duke University’s AI Master of Engineering (MEng) program is designed to provide students with a strong foundation in artificial intelligence while emphasizing practical applications and industry partnerships. Here are some ways the program integrates real-world applications and industry connections:
 
 1. **Project-Based Learning**: The curriculum includes numerous projects that address real-world problems, allowing students to apply theoretical knowledge to practical scenarios. These projects often mirror challenges faced by industries, providing hands-on experience that is directly applicable to professional settings.
 
@@ -178,22 +185,21 @@ Overall, Duke's AI MEng program effectively prepares graduates to tackle real-wo
 
 7. **Networking Events and Career Services**: Duke organizes various networking events, career fairs, and professional development workshops. These events give students opportunities to connect with potential employers and alumni working in AI-related roles.
 
-By incorporating these elements into their AI MEng program, Duke University ensures that students not only gain deep technical knowledge but also develop the skills necessary to succeed in the dynamic field of artificial intelligence.",0.6918392274245494,2.0271912870012003e-78
-AI MEng Program,"Can you describe the faculty's expertise and research areas within the AI MEng program at Duke, and how do they impact the learning experience?","The Master of Engineering (MEng) in Artificial Intelligence program at Duke University, part of the Pratt School of Engineering, is designed to equip students with the necessary skills to address real-world challenges through the application of artificial intelligence (AI) and machine learning (ML). The faculty involved in this program possess diverse expertise and engage in impactful research across various domains of AI and ML.
+By incorporating these elements into their AI MEng program, Duke University ensures that students not only gain deep technical knowledge but also develop the skills necessary to succeed in the dynamic field of artificial intelligence.",0.7257320130166343,0.06782792520475017,0.8,0.9,11.976461172103882
+AI MEng Program,"Can you describe the faculty's expertise and research areas within the AI MEng program at Duke, and how do they impact the learning experience?","The Master of Engineering in Artificial Intelligence program at Duke University is designed to provide students with robust technical proficiency in AI and machine learning while also imparting a solid understanding of how to create AI-driven software products. Faculty in this program are recognized for their expertise in multiple domains, including but not limited to digital transformation, software development for AI applications, and the ethical implications of AI technologies.
 
-1. **Faculty Expertise and Research Areas**: 
-   - The faculty at Duke includes experts specializing in digital transformation, AI applications, and ethical implications of machine learning technologies. Their collective research areas encompass:
-     - **Machine Learning and AI Systems**: Faculty have a strong focus on the design and implementation of scalable machine learning systems.
-     - **Ethics in AI**: There is a significant emphasis on understanding the societal, legal, and ethical implications of AI technologies, which prepares students to navigate complex dilemmas in the field.
-     - **Machine Learning Applications in Various Fields**: Research includes applying AI solutions to sectors like healthcare, cybersecurity, finance, and education, which illustrates the versatility of AI technologies.
-   - Courses such as ""Deep Learning Applications,"" “Modeling Processes and Algorithms,” and “Operationalizing AI” are indicative of the faculty's efforts to incorporate current research into the curriculum.
+This program facilitates students' learning experiences by allowing them to:
 
-2. **Impact on Learning Experience**:
-   - The learning experience in the program is enhanced by the faculty’s commitment to integrating hands-on projects with theoretical knowledge. Students work on real-world problems in collaboration with faculty, which not only prepares them for careers in AI but also cultivates a practical understanding of how to operationalize AI technologies in organizational settings.
-   - The program also emphasizes project-based learning through its capstone projects, enabling students to apply theoretical concepts in practice, further enhancing the relevance of their education.
-   - Additionally, small class sizes promote deeper engagement with faculty and foster mentorship opportunities, allowing students to benefit directly from the faculty's expertise.
+- Design and develop machine learning systems tailored for usability, security, and scalability.
+- Apply traditional machine learning and deep learning methodologies to a variety of challenging real-world problems.
+- Build full-stack software applications that seamlessly integrate machine learning models using contemporary methods and technologies.
+- Engage in an immersive cohort experience, connecting with peers from various disciplines and backgrounds, enhancing collaborative learning.
 
-In conclusion, the AI MEng program at Duke combines rigorous academic training with collaborative projects guided by experienced faculty, thus positively shaping the learning environment and career readiness of its students in the fast-evolving AI landscape.","The faculty within the AI Master of Engineering (MEng) program at Duke University bring a broad range of expertise and research interests that significantly enhance the learning experience for students. Here are some key areas and how they impact students:
+The curriculum is industry-oriented and features hands-on, real-world projects guided by experienced faculty. This connection to industry ensures that graduates are well-prepared to enter the workforce and tackle intricate challenges in sectors such as technology, healthcare, finance, energy, and retail.
+
+Furthermore, the program offers a diverse selection of courses, including foundational classes in business fundamentals for engineers, deep learning applications, the legal and ethical implications of AI, and practical electives addressing current trends in AI, such as cybersecurity and data science. Faculty contributions, enriched by their research and industry connections, deeply influence the curriculum's design, ensuring that students receive relevant, cutting-edge education and practical experience.
+
+Overall, the expertise and active engagement of faculty not only enhance the learning environment but also prepare students with essential skills to lead in an AI-driven future across various industries. The expectation is to equip graduates with a unique skill set, making them marketable in the job market and able to effect meaningful changes in their respective fields.","The faculty within the AI Master of Engineering (MEng) program at Duke University bring a broad range of expertise and research interests that significantly enhance the learning experience for students. Here are some key areas and how they impact students:
 
 1. **Diverse Expertise**: Faculty members in the AI program at Duke are experts in various fields such as machine learning, computer vision, natural language processing, robotics, data science, and AI ethics. This diversity allows students to gain a comprehensive understanding of AI technologies and applications across different domains.
 
@@ -207,24 +213,22 @@ In conclusion, the AI MEng program at Duke combines rigorous academic training w
 
 6. **AI Ethics and Policy**: The program emphasizes the importance of AI ethics, bias, and policy, which is reflected in faculty research and teaching. This focus ensures that students understand the broader implications of AI technology and are equipped to develop responsible and ethical AI systems.
 
-Overall, the faculty's expertise and research areas create a dynamic and enriching learning environment, preparing students not only with technical knowledge but also with the skills needed to impact the field of AI positively.",0.758763932908273,0.05208953791486945
-AI MEng Program,"What opportunities for hands-on experience, such as internships or laboratory work, are available to students in the AI MEng program?","In the Master of Engineering (MEng) program in Artificial Intelligence at Duke University, students have various opportunities for hands-on experience through integrated internships, industry projects, and a capstone project. Here are the key elements that contribute to practical learning in the program:
+Overall, the faculty's expertise and research areas create a dynamic and enriching learning environment, preparing students not only with technical knowledge but also with the skills needed to impact the field of AI positively.",0.7268364682683082,0.03954157599173527,0.7,0.8,10.900248050689697
+AI MEng Program,"What opportunities for hands-on experience, such as internships or laboratory work, are available to students in the AI MEng program?","The Master of Engineering in Artificial Intelligence program at Duke University, particularly within the Pratt School of Engineering, offers various opportunities for hands-on experience, including:
 
-1. **Industry Capstone Project**: Students engage in a capstone project where they design solutions to real-world problems, allowing them to apply their learning in a practical context. This project typically requires collaboration with industry partners and can simulate working conditions in a professional environment.
+1. **Integrated Capstone Project**: This project is designed to provide real-world experience as students apply their knowledge and skills in developing AI solutions. It allows students to work on practical challenges and create tangible products or services.
 
-2. **Industry Internships or Projects**: The program includes provisions for internships or industry-related projects, providing students with a chance to work directly with companies, gaining valuable work experience and professional connections.
+2. **Internship Opportunities**: The program emphasizes connections with industry leaders and organizations. Students are encouraged to pursue internships where they can apply their learning in professional settings, gaining valuable experience and building their portfolios.
 
-3. **Seminars and Workshops**: The AIPI Seminar Series and dedicated workshops throughout the program foster engagement with industry leaders, where students can learn from the experiences of professionals and gain insight into the latest trends and technologies in AI.
+3. **Small Class Cohorts**: The program's small class sizes promote interaction and collaboration with peers and faculty, facilitating more personalized learning environments, mentoring, and networking opportunities that can lead to hands-on project involvement.
 
-4. **Technical Electives**: Students are offered the flexibility to choose technical electives that may involve practical, hands-on components such as applied projects, case studies, or lab work.
+4. **Industry-Connected Curriculum**: The curriculum is developed in collaboration with industry professionals, ensuring that the content is relevant and includes hands-on projects that simulate real-world applications of AI technologies.
 
-5. **Career Services**: Duke’s engineering master's programs provide career services and professional development support, ensuring that students can explore internship opportunities and prepare adequately for industry roles.
+5. **Technical Electives & Workshops**: Students can choose from workshops and elective courses that focus on practical applications of AI and machine learning, allowing them to deepen their hands-on skills.
 
-6. **Collaborative Learning**: The program features a small cohort model, encouraging teamwork and collaboration, critical skills for successful project execution in the industry.
+6. **Career Services Support**: The Duke Engineering Master’s Career Services team provides specialized coaching, mentoring, and career preparation. This can include guidance in finding internships and collaborative projects with industry partners.
 
-Overall, the curriculum not only emphasizes theoretical knowledge but also prioritizes experiential learning, equipping students to meet industry demands effectively. With a combination of academic and practical experiences, graduates are well-prepared for careers in AI and related fields.
-
-For more detailed information, prospective students can visit the [Duke Engineering Master's Programs website](https://masters.pratt.duke.edu/) to explore specific courses and requirements.","Hands-on experience is a crucial component of any AI Master's program, such as an MEng in AI. While specific opportunities can vary by institution, here are some common types of hands-on experiences students might encounter:
+Overall, the program aims to equip students with the necessary skills to effectively engage in hands-on activities in AI fields, preparing them for immediate employment upon graduation.","Hands-on experience is a crucial component of any AI Master's program, such as an MEng in AI. While specific opportunities can vary by institution, here are some common types of hands-on experiences students might encounter:
 
 1. **Internships and Co-ops**: Many programs have partnerships with tech companies and other industries that leverage AI technologies, allowing students to pursue internships or cooperative education placements. These opportunities provide real-world exposure and the chance to apply theoretical knowledge in practical settings.
 
@@ -238,28 +242,18 @@ For more detailed information, prospective students can visit the [Duke Engineer
 
 6. **Collaborations with Industry**: Some universities have established collaborations with tech companies and startups, providing students with the chance to work on industry-sponsored projects and gain insights into corporate research and development.
 
-When considering an MEng in AI, it's important for prospective students to inquire with individual programs about the specific hands-on experiences they offer, as these can greatly enhance learning and employment prospects post-graduation.",0.6155981200686316,1.8757884714022984e-78
-AI MEng Program,How does the AI MEng program at Duke support students in developing both technical skills and leadership abilities within the field of artificial intelligence?,"The AI Master of Engineering program at Duke University supports students in developing both technical skills and leadership abilities through a structured and innovative curriculum. This program creates technical leaders equipped for the current landscape of artificial intelligence (AI) and machine learning (ML). Here are the key aspects of how the program achieves this:
+When considering an MEng in AI, it's important for prospective students to inquire with individual programs about the specific hands-on experiences they offer, as these can greatly enhance learning and employment prospects post-graduation.",0.613407769800786,0.04150215066259778,0.8,0.7,9.460937023162842
+AI MEng Program,How does the AI MEng program at Duke support students in developing both technical skills and leadership abilities within the field of artificial intelligence?,"The AI Master of Engineering (MEng) program at Duke University supports students in developing technical skills and leadership abilities through a comprehensive curriculum, hands-on learning experiences, and opportunities for real-world engagement. The program focuses on machine learning and artificial intelligence, enabling students to apply these technologies in practical settings. 
 
-1. **Technical Skills Development**: 
-   - Students gain strong technical competencies through a focus on applied machine learning and MLOps, preparing them to solve real-world problems using AI.
-   - The curriculum includes core AI/ML and technical courses such as Deep Learning Applications, Sourcing Data for Analytics, and Modeling Process & Algorithms. This robust technical foundation enables students to develop machine-learning systems and software applications.
+1. **Technical Skills Development**: The program includes core courses such as Deep Learning Applications, Modeling Process & Algorithms, and Sourcing Data for Analytics, which equip students with the necessary knowledge to design and develop AI systems. Additionally, students can choose electives like Advanced Topics in AI for Product Innovation or Applying ML to Advance Cybersecurity, allowing them to tailor their education to specific interests and career goals.
 
-2. **Experiential Learning**: 
-   - The program employs an experiential model of education where students learn by doing. This hands-on approach allows students to build a portfolio of personal and team projects showcasing their skills to potential employers.
-   - Capstone projects engage students with industry leaders, allowing them to work on real-world applications of AI, further enhancing their technical capabilities and readiness for the job market.
+2. **Leadership Abilities**: Leadership training is integrated into the program through courses such as Management of High-Tech Industries and Legal, Societal, & Ethical Implications of AI. These courses help students understand the broader context in which AI technologies operate, focusing on ethical considerations and strategic decision-making in technology-driven environments.
 
-3. **Industry Collaboration**:
-   - There is a heavy emphasis on collaboration with industry through seminars, internships, and direct engagement with industry leaders during capstone projects. This exposure not only develops technical proficiency but cultivates essential leadership abilities needed to navigate complex project dynamics in the tech industry.
+3. **Capstone Project**: An essential component of the program is the capstone project, which provides students with practical experience by working on real-world challenges in collaboration with industry partners. This project not only enhances their technical skills but also develops their ability to lead teams and manage projects effectively.
 
-4. **Diverse Cohort and Networking**:
-   - The program welcomes a diverse group of students from various technical backgrounds, enhancing peer learning and collaboration. This diverse network helps build leadership skills by encouraging interaction with individuals from different fields and cultures.
-   - Students are also provided with specialized career guidance and support from the Duke Engineering Master’s Career Services & Professional Development team, which includes coaching and mentoring vital for leadership development.
+4. **Networking and Professional Development**: The program's small, immersive cohorts allow for close interactions with faculty and peers, fostering a collaborative learning environment. Additionally, Duke's dedicated Master’s Career Services team offers personalized coaching, mentoring, and professional development support, preparing graduates to take on leadership roles within the tech industry.
 
-5. **Focus on Ethics and Societal Impact**:
-   - A core course on the Legal, Societal, and Ethical Implications of AI prepares students not just to be skilled technologists, but also responsible leaders who understand the broader impact of AI in society.
-
-In summary, the AI MEng program at Duke University equips students with critical technical abilities while fostering leadership skills through practical application, collaboration with industry professionals, and a diverse learning environment. This holistic approach prepares graduates to effectively utilize AI technologies and lead in their respective fields.","The AI Master of Engineering (MEng) program at Duke University is structured to provide students with a comprehensive education that balances technical proficiency in artificial intelligence with leadership and management skills. Here’s how the program supports the development of both these crucial areas:
+By combining rigorous academic training with experiential learning opportunities, the AI MEng program at Duke University effectively develops the technical and leadership skills necessary for students to excel in the ever-evolving field of artificial intelligence.","The AI Master of Engineering (MEng) program at Duke University is structured to provide students with a comprehensive education that balances technical proficiency in artificial intelligence with leadership and management skills. Here’s how the program supports the development of both these crucial areas:
 
 1. **Core Curriculum**: The program includes a robust set of core courses that cover essential AI topics such as machine learning, data science, computer vision, and natural language processing. These courses are designed to equip students with the fundamental technical skills needed to excel in the AI industry.
 
@@ -277,28 +271,42 @@ In summary, the AI MEng program at Duke University equips students with critical
 
 8. **Faculty Expertise**: Students have the chance to learn from and work with faculty who are experts in AI and related fields. Faculty mentorship helps students refine both their technical abilities and leadership qualities.
 
-Overall, the AI MEng program at Duke combines rigorous technical training with leadership education, preparing graduates to excel in both technical and managerial roles within the field of artificial intelligence.",0.7584863395182572,0.07046185062234432
-AI MEng Program,"What are the admission requirements for the AI MEng program, and are there any recommended academic backgrounds or experiences for prospective students?","The admission requirements for the Master of Engineering (MEng) in Artificial Intelligence program at Duke University include the following:
+Overall, the AI MEng program at Duke combines rigorous technical training with leadership education, preparing graduates to excel in both technical and managerial roles within the field of artificial intelligence.",0.758347339605492,0.11828187921400844,0.9,0.85,16.542423009872437
+AI MEng Program,"What are the admission requirements for the AI MEng program, and are there any recommended academic backgrounds or experiences for prospective students?","The admission requirements for the Master of Engineering (MEng) in Artificial Intelligence (AI) program at Duke University include:
 
-1. **Educational Background**: Applicants should hold a bachelor's degree in engineering, computer science, or a related field from an accredited institution. 
+1. **Educational Background**: 
+   - A bachelor's degree in engineering, computer science, or a related field is generally recommended.
+   - Candidates with backgrounds in other sciences may also be considered, particularly if they have relevant technical experience.
 
-2. **Required Application Materials**:
-   - Transcripts of the bachelor’s degree.
-   - A resume detailing relevant experience.
-   - Responses to short essay questions.
-   - Three letters of recommendation.
-   - A non-refundable application fee, which can be paid by credit card.
-  
-3. **Optional GRE Scores**: GRE scores are not required for the 2025 application cycle.
+2. **Academic Requirements**:
+   - An official transcript from all previously attended institutions must be submitted.
+   - A minimum GPA of 3.0 on a 4.0 scale is preferred, although exceptions may exist based on the applicant's overall profile.
 
-4. **Supplementary Materials**: 
-   - A video introduction is required.
-   - International applicants may need to submit English language test scores.
-   - A video interview may be requested by the admissions team.
+3. **Standardized Tests**: 
+   - GRE scores may be required but are often optional. It is essential to check the latest requirements as they may change.
+   - If submitted, competitive GRE scores are encouraged.
 
-5. **Ideal Candidates**: The program is designed for individuals with a background in computer science, engineering, or science, who are interested in product innovation in AI. Working professionals looking to enhance their careers or Duke undergraduates wishing to fast-track their education (earning both bachelor’s and master’s degrees in five years) are also encouraged to apply.
+4. **Recommendation Letters**: 
+   - Two letters of recommendation must be submitted. These should ideally be from professionals or academics familiar with the applicant's work or academic capabilities.
 
-For more detailed information and course offerings, you can visit the official program page [here](https://masters.pratt.duke.edu/ai/).","The admission requirements for a Master of Engineering (MEng) program in Artificial Intelligence (AI) can vary by institution, but there are some common general requirements and recommendations that most programs tend to have. Here's a general outline:
+5. **Statement of Purpose**: 
+   - A personal statement outlining the applicant's interest in AI, their career goals, and how the MEng program aligns with their aspirations.
+
+6. **Resume/CV**: 
+   - An updated resume or CV detailing educational and professional experiences is required.
+
+7. **Interview**: 
+   - Occasionally, applicants may be invited for an interview, which can be conducted virtually.
+
+Recommended academic backgrounds or experiences include:
+- Strong foundational knowledge in programming (especially in Python) and mathematics (including statistics).
+- Previous coursework or professional experience in machine learning, data science, or domains relevant to AI is beneficial.
+- Experience with software development or engineering principles can help in the technical aspects of the program.
+- Involvement in projects relating to AI or relevant internships that provide practical exposure to the field.
+
+This program is designed for professionals seeking to blend technical skills with innovative product development in AI. It's particularly suited for those looking to advance in careers like data science or machine learning engineering.
+
+For more detailed information, prospective students should refer to the official Duke Engineering Master's Programs webpage: [Duke University AI MEng Program](https://masters.pratt.duke.edu/ai/).","The admission requirements for a Master of Engineering (MEng) program in Artificial Intelligence (AI) can vary by institution, but there are some common general requirements and recommendations that most programs tend to have. Here's a general outline:
 
 1. **Educational Background:**
    - A bachelor’s degree in a relevant field such as computer science, engineering, mathematics, statistics, or a related discipline is typically required.
@@ -337,23 +345,23 @@ For more detailed information and course offerings, you can visit the official p
 - **Additional Considerations:**
   - Some programs might value interdisciplinary experiences, especially those that combine AI with fields like biology, psychology, or business.
 
-It's important to note that individual programs may have specific requirements or recommendations, so it's a good idea to check the websites of the programs you are interested in for the most precise information.",0.4376303044941102,0.02836116582263499
-AI MEng Program,How does the program ensure that students are up-to-date with the latest advancements and ethical considerations in artificial intelligence?,"The Master of AI Product Innovation program at Duke University ensures that students are at the forefront of the latest advancements and ethical considerations in artificial intelligence through a robust curriculum designed to cover contemporary topics. Here are some key aspects of the program's approach:
+It's important to note that individual programs may have specific requirements or recommendations, so it's a good idea to check the websites of the programs you are interested in for the most precise information.",0.6440165555843966,0.07519769597607849,0.9,0.8,20.449156999588013
+AI MEng Program,How does the program ensure that students are up-to-date with the latest advancements and ethical considerations in artificial intelligence?,"The Duke University Master of AI Product Innovation program incorporates various strategies to ensure that students remain current with the latest advancements and ethical considerations in artificial intelligence. Here are some key components of the program:
 
-1. **Courses Focused on Ethics**: The program includes a dedicated course titled **""Legal, Societal, and Ethical Implications of AI""** (Course Code: 560), which is offered during the summer. This course focuses specifically on the ethical dimensions of artificial intelligence, addressing legal frameworks, societal impacts, and ethical considerations relevant to AI development and deployment.
+1. **Comprehensive Course Offerings**: The curriculum includes a range of courses that focus on both technical skills and ethical implications. Notable courses include:
+   - **AIPI 560: Legal, Societal, and Ethical Implications of AI**: This course focuses specifically on the legal, societal, and ethical aspects of artificial intelligence, helping students understand the broader implications of their work.
+   - **AIPI 561: Operationalizing AI**: This course helps students learn how to implement AI solutions in real-world settings, ensuring that they are aware of current industry practices and ethical standards.
 
-2. **Comprehensive Curriculum**: Students engage in a variety of courses that cover both theoretical and practical aspects of AI, such as:
-   - **AIPI Seminar**: This course provides insights into current topics and innovations in AI.
-   - **Deep Learning Applications** (Course Code: 540): This course explores advanced deep learning techniques that are critical for developing cutting-edge AI solutions.
-   - **Modeling Process and Algorithms** (Course Code: 520): This course delves into algorithmic developments in AI and ensures students are up-to-date with the latest modeling techniques.
+2. **Workshops and Seminars**: 
+   - The program offers **AIPI Workshops** and **AIPI Seminars**, which are designed to present current research, trends, and emerging challenges in the field of AI. These interactive formats allow students to engage directly with experts and gain insights into cutting-edge developments.
 
-3. **Workshops and Practical Experience**: The program offers workshops (Course Code: 502) that emphasize hands-on learning, allowing students to apply their knowledge and stay engaged with the evolving technology landscape.
+3. **Practical Experience**: The program emphasizes practical application through residencies and capstone projects where students work on real-world AI problems. Courses like **Capstone Practicum 1** provide hands-on experience that connects students with industry demands and advancements.
 
-4. **Capstone Projects**: Through the **Capstone Practicum 1** course (Course Code: 549), students have the opportunity to work on real-world AI projects where they can apply their knowledge and skills in a practical setting, ensuring they develop competencies that are aligned with current industry standards.
+4. **Cross-Disciplinary Approach**: Collaboration with faculty and departments outside of engineering ensures that students gain a multifaceted understanding of AI. The interdisciplinary nature of the program allows for diverse perspectives, particularly in addressing ethical issues that arise in AI development and application.
 
-5. **Interdisciplinary Collaboration**: The program encourages collaboration across various disciplines within the Pratt School of Engineering, enriching the learning experience with diverse perspectives relevant to AI and its applications.
+5. **Continuous Learning Opportunities**: The program also offers advanced topics courses such as those focusing on **Deep Reinforcement Learning Applications** and **Deep Learning Applications**, ensuring that students are equipped with the latest knowledge and skills as technology evolves.
 
-In summary, the Duke University Master of AI Product Innovation program equips students with both the theoretical knowledge and practical skills needed to navigate and contribute to the rapidly changing landscape of artificial intelligence while emphasizing the importance of ethical considerations in all their work.","To ensure that students are up-to-date with the latest advancements and ethical considerations in artificial intelligence (AI), a program might adopt several strategies:
+By integrating these components, the Master of AI Product Innovation program at Duke University addresses not only the technological advancements in AI but also the critical ethical considerations that must be navigated as these technologies are developed and deployed in society.","To ensure that students are up-to-date with the latest advancements and ethical considerations in artificial intelligence (AI), a program might adopt several strategies:
 
 1. **Industry Collaboration and Partnerships**: Establish partnerships with tech companies, research institutions, and industry leaders to provide students with insights into cutting-edge developments and practical applications of AI.
 
@@ -375,28 +383,19 @@ In summary, the Duke University Master of AI Product Innovation program equips s
 
 10. **Feedback and Continuous Improvement**: Regularly gather feedback from students and alumni to assess the effectiveness of the program and make improvements. Engage with advisory boards or committees that include AI professionals to guide curriculum development.
 
-By implementing a combination of these strategies, a program can effectively equip students with the knowledge, skills, and ethical understanding necessary to navigate the rapidly evolving landscape of artificial intelligence.",0.6551193309335651,0.08372456255358662
-AI MEng Program,What career services and job placement resources does Duke University provide for graduates of the AI MEng program?,"Duke University provides a range of career services and job placement resources designed to support graduates of the AI Master of Engineering (MEng) program in their professional endeavors. Here are the key offerings available for graduates:
+By implementing a combination of these strategies, a program can effectively equip students with the knowledge, skills, and ethical understanding necessary to navigate the rapidly evolving landscape of artificial intelligence.",0.7164714826688486,0.07871526759241937,0.9,0.85,15.679711103439331
+AI MEng Program,What career services and job placement resources does Duke University provide for graduates of the AI MEng program?,"Duke University provides robust career services and job placement resources for graduates of the Master of Engineering (MEng) in Artificial Intelligence program through its specialized Career Services & Professional Development team. This dedicated team offers coaching, mentoring, and career preparation that helps students identify and pursue career paths that align with their interests and skill sets.
 
-1. **Individual and Group Coaching**: Personalized career coaching is available to assist students in navigating their job search and developing their professional presence.
+Key components of the career services include:
 
-2. **Workshops and Events**: Duke hosts a variety of workshops aimed at enhancing job search skills, resume writing, interviewing techniques, and networking strategies.
+1. **Personalized Coaching**: One-on-one sessions to discuss career aspirations, job search strategies, and resume reviews.
+2. **Mentorship Opportunities**: Connections with alumni and industry professionals who can provide guidance and insights into the field.
+3. **Workshops and Seminars**: Regular events focused on job search techniques, interview preparation, and networking.
+4. **Capstone Projects**: Real-world projects that provide students with hands-on experience and a portfolio to showcase their skills to potential employers.
+5. **Internship Opportunities**: Support in finding relevant internships that can lead to job placements after graduation.
+6. **Job Placement Resources**: Access to job boards and recruitment events specific to engineering and technology sectors.
 
-3. **Networking Opportunities**: The university facilitates networking events that connect students with industry professionals and alumni, fostering relationships that can lead to job opportunities.
-
-4. **Access to Recruitment Events**: Graduates have access to recruitment events where they can meet potential employers, learn about job openings, and participate in interviews.
-
-5. **Industry Partnerships**: The program collaborates closely with industry partners who provide real-world project opportunities for capstone experiences. This not only enhances the learning experience but also increases visibility in the job market.
-
-6. **Capstone Projects**: By working on capstone projects with leading companies in technology, healthcare, and retail, students gain hands-on experience and can showcase their skills to potential employers.
-
-7. **Alumni Network**: Graduates become part of a vibrant global alumni network that spans numerous industries and companies, providing both mentorship and job opportunities.
-
-8. **Graduate Outcomes Data**: The Pratt School of Engineering tracks job placements and helps students understand the types of roles and companies that are hiring graduates from the AI MEng program.
-
-These resources collectively aim to prepare Duke’s AI MEng graduates for successful careers, equipping them with not only technical expertise in AI and machine learning but also the professional skills necessary to thrive in today’s competitive job market.
-
-For more detailed information, you can visit Duke's dedicated [Career Services page](https://masters.pratt.duke.edu/life/career-services/).","Duke University provides a variety of career services and job placement resources for graduates of the AI Master of Engineering (MEng) program. While specific offerings can evolve, these are some of the resources typically available:
+By participating in these services, graduates are well-equipped to enter the workforce and make a significant impact in the evolving landscape of artificial intelligence and machine learning. For more detailed information about the career services available, you can visit the [Duke Engineering Master's Career Services page](https://masters.pratt.duke.edu/life/career-services/).","Duke University provides a variety of career services and job placement resources for graduates of the AI Master of Engineering (MEng) program. While specific offerings can evolve, these are some of the resources typically available:
 
 1. **Career Services:** Duke's Career Services offers comprehensive support, including career counseling, resume and cover letter reviews, interview preparation, and career workshops tailored to engineering and technology fields.
 
@@ -414,16 +413,14 @@ For more detailed information, you can visit Duke's dedicated [Career Services p
 
 8. **Entrepreneurial Support:** For graduates interested in starting their own ventures, Duke offers resources and support through initiatives like the Duke Innovation & Entrepreneurship Initiative, providing access to entrepreneurial education, incubators, and funding opportunities.
 
-It’s advisable to check directly with Duke University’s Pratt School of Engineering or their career services department for the most current and detailed information, as services and programs may update over time.",0.6888751797512824,0.1088594108421811
-AI MEng Program,"How does the AI MEng program at Duke facilitate interdisciplinary collaboration, and what opportunities exist for students to engage with other departments or fields?","The AI Master of Engineering (MEng) program at Duke University fosters interdisciplinary collaboration by providing a comprehensive educational experience that combines technical training with management courses, industry seminars, and real-world capstone projects. This experiential learning model helps students develop both hard and soft skills essential for success in the field of artificial intelligence.
+It’s advisable to check directly with Duke University’s Pratt School of Engineering or their career services department for the most current and detailed information, as services and programs may update over time.",0.7253472212970399,0.0787098719109154,0.9,0.8,10.611722946166992
+AI MEng Program,"How does the AI MEng program at Duke facilitate interdisciplinary collaboration, and what opportunities exist for students to engage with other departments or fields?","The Master of Engineering in Artificial Intelligence (AI MEng) program at Duke University fosters interdisciplinary collaboration through a curriculum that includes co-curricular activities, collaborative projects, and access to various departments and research centers. Students in the program not only take AI-specific courses but also engage in electives and collaborative projects that incorporate knowledge and methodologies from other fields such as computer science, business, healthcare, and engineering.
 
-The program is designed to ensure that students engage with various disciplines, allowing them to build strong technical skills while understanding how to design and construct AI products and systems that address complex challenges. This blend of educational pathways includes a focus on applied machine learning and MLOps, making it possible to solve real-world problems.
+The program offers a flexible schedule, including options for online and on-campus learning. Students can participate in capstone projects which allow them to work on real-world problems alongside industry professionals and faculty members from different disciplines. This hands-on experience, paired with access to experts in digital transformation, promotes the application of AI in varied sectors, enhancing the learning experience and providing a platform for innovative solutions.
 
-Moreover, the Duke AI curriculum was created with extensive input from industry leaders, and faculty members bring valuable experience from top tech firms and successful startups. The program emphasizes collaboration with businesses that provide real-world projects for students, particularly during their capstone projects, thus facilitating opportunities for students to work alongside professionals from diverse fields.
+Duke's AI framework emphasizes ethical responsibility and addresses the societal implications of AI technologies, facilitating discussions and collaborations with faculty and community members. Events like the Triangle AI Summit and collaborations with organizations across the Triangle region enhance students' connectivity with industry leaders and peers from diverse backgrounds, enriching their educational journey.
 
-The program welcomes a diverse cohort of students from various scientific and technical backgrounds, many of whom come with expertise in different domains beyond traditional engineering. This diversity enhances the collaborative environment, allowing students to learn from each other's experiences and perspectives, particularly in industries such as technology, healthcare, and retail.
-
-Duke’s Pratt School of Engineering promotes interaction with industry leaders through seminars and internships, further enhancing students' opportunities for interdisciplinary engagement beyond the engineering scope. Overall, the AI MEng program not only focuses on building technical capabilities but also prioritizes collaboration across different departments and fields, providing students with a well-rounded education that prepares them to lead in a variety of sectors.","The AI Master of Engineering (MEng) program at Duke University is designed with a strong emphasis on interdisciplinary collaboration, leveraging the university’s strengths across various fields. Here are several ways the program facilitates interdisciplinary collaboration and provides opportunities for students to engage with other departments or fields:
+Ultimately, with a strong focus on the intersection of technology and its practical applications, the AI MEng program encourages students to become future leaders capable of making meaningful contributions across disciplines, thus preparing them for a variety of careers in the rapidly evolving landscape of artificial intelligence.","The AI Master of Engineering (MEng) program at Duke University is designed with a strong emphasis on interdisciplinary collaboration, leveraging the university’s strengths across various fields. Here are several ways the program facilitates interdisciplinary collaboration and provides opportunities for students to engage with other departments or fields:
 
 1. **Cross-Departmental Courses**: Students are encouraged to take courses across different departments such as Computer Science, Electrical and Computer Engineering, Biomedical Engineering, and more. This allows them to gain knowledge in several domains and see how AI can be applied to diverse areas.
 
@@ -439,54 +436,48 @@ Duke’s Pratt School of Engineering promotes interaction with industry leaders 
 
 7. **Interdepartmental Funding and Grants**: For students interested in research, there are often funding opportunities that specifically support interdisciplinary projects, encouraging collaboration between students and faculty from different departments.
 
-Through these avenues, the AI MEng program at Duke University not only equips students with robust technical skills in AI but also offers a rich environment for interdisciplinary collaboration, enabling them to apply AI technologies to a wide range of fields and challenges.",0.6655734643353345,0.0732787588483343
-Duke/Pratt Info,What are the admission requirements and deadlines for prospective undergraduate students applying to Duke University and the Pratt School of Engineering?,"**Admission Requirements and Deadlines for Prospective Undergraduate Students at Duke University and the Pratt School of Engineering (2024-2025 Cycle)**
+Through these avenues, the AI MEng program at Duke University not only equips students with robust technical skills in AI but also offers a rich environment for interdisciplinary collaboration, enabling them to apply AI technologies to a wide range of fields and challenges.",0.6624003872782305,0.04671698548875406,0.8,0.7,11.775332927703857
+Duke/Pratt Info,What are the admission requirements and deadlines for prospective undergraduate students applying to Duke University and the Pratt School of Engineering?,"**Admission Requirements and Deadlines for Undergraduate Students** applying to Duke University (including the Pratt School of Engineering): 
 
-### Admission Requirements:
+### Application Types:
+1. **Early Decision**
+   - Application Deadline: **November 4**
+   - Requirements:
+     - Common Application or Coalition Application
+     - Early Decision Agreement
+     - High School Transcript
+     - First Quarter Grades (optional report)
+     - Secondary School Report with Counselor Recommendation
+     - Two Teacher Recommendations
+     - SAT and/or ACT Scores (optional; last test date must be November 6)
+     - Arts Supplement (optional)
+     - Financial Aid Applications (CSS Profile due November 1)
+     - Additional Financial Aid Documents (due November 15)
+   - Notification: Mid-December
 
-1. **Application:** 
-   - Common Application or Coalition Application.
-   - Application Fee: $75 (fee waivers available).
-   
-2. **Academic Transcripts:**
-   - High School Transcript.
-   - First Quarter Grades (submit via Optional Report; will accept through November 20 or when the first term ends for Early Decision).
+2. **Regular Decision**
+   - Application Deadline: **January 2**
+   - Requirements:
+     - Common Application or Coalition Application
+     - High School Transcript
+     - Secondary School Report with Counselor Recommendation
+     - Two Teacher Recommendations
+     - SAT and/or ACT Scores (optional; tests must be taken by January 31)
+     - Arts Supplement (optional)
+     - Financial Aid CSS Profile (due February 1)
+     - FAFSA (due February 1)
+     - Midyear Grade Report (due February 15)
+   - Notification: Late March/Early April
 
-3. **Recommendations:**
-   - Secondary School Report with Counselor Recommendation.
-   - Two Teacher Recommendations.
+3. **Transfer Students**
+   - Application Deadline: **March 15**
+   - Requirements may include transcript and other standard documentation.
 
-4. **Standardized Tests:**
-   - SAT and/or ACT scores (optional). If submitted, the last day to take standardized tests for Early Decision is November 6, and for Regular Decision, it’s January 31.
+### Additional Information:
+- Duke University evaluates applications through a holistic process, taking into account your academic achievements, personal interests, experiences, perspectives, and background.
+- It's recommended to review the checklist for any particular program intricacies related to the Pratt School of Engineering.
 
-5. **Supplementary Materials:**
-   - Arts Supplement (optional).
-
-6. **Financial Aid Applications:**
-   - CSS Profile for both Early Decision and Regular Decision.
-   - FAFSA due February 1 for Regular Decision.
-
-### Important Deadlines:
-
-**Early Decision:**
-- **Application Deadline:** November 4
-- **Decisions Released:** Mid-December
-
-**Regular Decision:**
-- **Application Deadline:** January 2
-- **Financial Aid:** CSS Profile and FAFSA due by February 1
-- **Decisions Released:** Late March/Early April
-
-**Transfer Students:**
-- **Application Deadline:** March 15
-
-### Additional Notes:
-
-- Applicants must upload one copy of a scanned unofficial transcript from each institution attended.
-- All application materials must be submitted electronically.
-- International students may be required to take English placement exams.
-
-For more detailed information, please visit the [Duke University's Admissions Website](https://admissions.duke.edu/checklist/).","For prospective undergraduate students applying to Duke University, including the Pratt School of Engineering, the admission requirements and deadlines are generally as follows. Keep in mind that requirements may change, so it's always good to check Duke's official admissions website for the most current information.
+For more details, please refer to the official Duke University [Checklist and Deadlines page](https://admissions.duke.edu/checklist/).","For prospective undergraduate students applying to Duke University, including the Pratt School of Engineering, the admission requirements and deadlines are generally as follows. Keep in mind that requirements may change, so it's always good to check Duke's official admissions website for the most current information.
 
 ### General Admission Requirements:
 1. **Application Form**: Applicants can use the Common Application or Coalition Application.
@@ -506,18 +497,8 @@ For more detailed information, please visit the [Duke University's Admissions We
 - **Regular Decision**: The deadline for regular decision applications is typically on or around January 2.
 - **Notification Dates**: Early Decision applicants are generally notified by mid-December, while Regular Decision applicants hear back by late March or early April.
 
-Again, deadlines and requirements can change, so checking directly with Duke University's admissions page is a good idea for the most accurate and up-to-date information.",0.5561897721143244,0.04236704228380177
-Duke/Pratt Info,"How does Duke University's Pratt School of Engineering rank among other engineering schools nationally and globally, and what specific programs is it known for?","Duke University's Pratt School of Engineering is ranked No. 20 (tie) out of 198 in Best Engineering Schools in the United States according to U.S. News & World Report. This ranking reflects the school's strong performance across various metrics evaluated by the organization.
-
-Pratt School of Engineering is particularly known for several key programs, which include:
-
-1. **Biomedical Engineering**: This program integrates engineering principles with medical sciences to advance healthcare technologies.
-
-2. **Environmental Engineering**: This program focuses on developing sustainable solutions to environmental challenges, particularly in water resources.
-
-3. **Structural Engineering**: This field involves the design and analysis of structures that can withstand environmental forces and human use.
-
-These programs contribute to the school's reputation as a leader in engineering education and research, attracting students seeking to apply technology to real-world challenges. For more detailed information, you can visit their [official website](https://pratt.duke.edu/academics/undergrad/majors-minors/).","Duke University's Pratt School of Engineering is recognized both nationally and globally, though specific rankings can vary depending on the source and year. Generally, Pratt is consistently ranked among the top engineering schools in the United States. Nationally, it often appears within the top 30 engineering schools in the rankings published by U.S. News & World Report. Globally, its reputation is strong as well, though it might not always be in the top tier compared to some larger, more established engineering programs.
+Again, deadlines and requirements can change, so checking directly with Duke University's admissions page is a good idea for the most accurate and up-to-date information.",0.5139185550656107,0.0393894707757878,0.9,0.8,11.328258037567139
+Duke/Pratt Info,"How does Duke University's Pratt School of Engineering rank among other engineering schools nationally and globally, and what specific programs is it known for?",[Error from custom chatbot],"Duke University's Pratt School of Engineering is recognized both nationally and globally, though specific rankings can vary depending on the source and year. Generally, Pratt is consistently ranked among the top engineering schools in the United States. Nationally, it often appears within the top 30 engineering schools in the rankings published by U.S. News & World Report. Globally, its reputation is strong as well, though it might not always be in the top tier compared to some larger, more established engineering programs.
 
 Pratt is particularly known for its strengths in several specific areas:
 
@@ -531,22 +512,36 @@ Pratt is particularly known for its strengths in several specific areas:
 
 5. **Interdisciplinary Programs**: Pratt is known for its interdisciplinary approach, allowing students to work across disciplines, which is facilitated by Duke’s strong emphasis on interdisciplinary collaboration.
 
-Overall, Duke’s Pratt School of Engineering is recognized for its innovative research, commitment to education, and the ability to produce graduates who are well-prepared for a variety of engineering careers. Its smaller size compared to some peers allows for a unique, personalized education experience.",0.581170582417199,0.0730762572209
-Duke/Pratt Info,"What financial aid options and scholarships are available for prospective students at Duke University, particularly those interested in engineering disciplines at Pratt?","At Duke University, particularly within the Pratt School of Engineering, there are several financial aid options and scholarships available for prospective students:
+Overall, Duke’s Pratt School of Engineering is recognized for its innovative research, commitment to education, and the ability to produce graduates who are well-prepared for a variety of engineering careers. Its smaller size compared to some peers allows for a unique, personalized education experience.",0.0,0.0,0.0,0.0,-1.0
+Duke/Pratt Info,"What financial aid options and scholarships are available for prospective students at Duke University, particularly those interested in engineering disciplines at Pratt?","At Duke University, particularly in the Pratt School of Engineering, there are various financial aid options and scholarships available for prospective students, including:
 
-1. **Need-Based Aid**: Duke University offers financial aid that is determined by your financial need. Incoming students can apply for financial aid as part of their undergraduate application process. Families are expected to contribute to the cost of attendance based on their financial situation.
+1. **Full Tuition Grants**: 
+   - For undergraduate students from North Carolina and South Carolina with family incomes of $150,000 or less. 
+   - For those with total family incomes of $65,000 or less, full tuition grants are provided plus financial assistance for housing, meals, and course materials, without the need for student loans.
 
-2. **Merit Scholarships**: In addition to need-based assistance, Pratt also awards merit-based scholarships to incoming students. These scholarships recognize exceptional talent and academic achievement.
+2. **Need-Based and Merit Scholarships**: 
+   - Awarded to incoming undergraduate students as part of the application process. There is no separate application for these scholarships. Current undergraduate students must renew their aid applications annually.
 
-3. **Graduate Funding**: For graduate students, the Pratt School typically provides funding packages that may include stipends, tuition coverage, and health insurance. These packages are often awarded to PhD students and other graduate degree candidates.
+3. **Support for Master’s Students**:
+   - Financial support for master’s students varies by program, so it is encouraged that prospective and current students speak with their department program director for details.
+   - Examples of financial support include various scholarships and competitive funding offered by specific programs.
 
-4. **Additional Resources**: Students can also access other funding opportunities through departmental awards, external scholarships, and fellowships.
+4. **Graduate School Fellowships and Scholarships**: 
+   - The Duke Graduate School offers fellowships and funding support for Master of Science students. 
 
-To explore more about financial support at Duke's Pratt School of Engineering, including specifics on how to apply for aid and available scholarships, you can visit their official financial support page [here](https://pratt.duke.edu/admissions/financial-support/). 
+5. **Wilkinson & Garda Fellowships**: 
+   - For Outstanding Students in the Master of Engineering Management program, two fellowships of $10,000 are awarded based on leadership, GPA, and GRE scores. 
 
-For further details on the specific types of aid, tuition, fees, and additional inquiries, the website provides comprehensive guidance and resources.
+6. **Barr-Spach Medicine & Engineering Scholarships**: 
+   - This scholarship assists third-year students of the MD-Master of Engineering dual degree program.
 
-Feel free to reach out if you have more questions!","Duke University offers a variety of financial aid options and scholarships for prospective students, including those interested in engineering disciplines at the Pratt School of Engineering. Here are some key options:
+7. **External Fellowship Support**: 
+   - Support is also given to Master of Science and Master of Engineering students who receive competitive externally funded scholarships, such as the National Science Foundation (NSF) Fellowships and Fulbright Scholarships.
+
+8. **Partner Programs**: 
+   - Duke partners with programs like EdAssist by Bright Horizons to offer discounts on tuition for employees of partner organizations.
+
+For more detailed information, prospective students can visit the [Duke Pratt School of Engineering financial support page](https://pratt.duke.edu/admissions/financial-support/).","Duke University offers a variety of financial aid options and scholarships for prospective students, including those interested in engineering disciplines at the Pratt School of Engineering. Here are some key options:
 
 ### Need-Based Financial Aid
 1. **Need-Blind Admission**: Duke practices need-blind admissions for U.S. citizens, permanent residents, and undocumented students, meaning your financial need does not impact your admission decision.
@@ -572,26 +567,30 @@ For students in the Pratt School of Engineering, there may be additional funding
 ### How to Apply
 Prospective students should submit the Free Application for Federal Student Aid (FAFSA) and the CSS Profile to be considered for need-based aid. Merit scholarship consideration generally does not require separate applications, as most are awarded based on the admissions application. However, some specialized programs may have additional requirements or application processes.
 
-Overall, Duke is committed to making education affordable for all admitted students, and it's advisable for prospective students to visit the Duke Financial Aid website and contact the financial aid office for the most current and personalized information.",0.6875762429651813,0.04027203693763224
-Duke/Pratt Info,"Can you provide an overview of the facilities and resources available to engineering students at the Pratt School of Engineering, such as research labs and innovation centers?","The Pratt School of Engineering at Duke University offers a range of facilities and resources designed to support engineering students throughout their academic journey. Key highlights include:
+Overall, Duke is committed to making education affordable for all admitted students, and it's advisable for prospective students to visit the Duke Financial Aid website and contact the financial aid office for the most current and personalized information.",0.6377503817591197,0.057535578434838294,0.7,0.8,106.90510106086731
+Duke/Pratt Info,"Can you provide an overview of the facilities and resources available to engineering students at the Pratt School of Engineering, such as research labs and innovation centers?","The Pratt School of Engineering at Duke University offers a rich array of facilities and resources designed to support engineering students in their academic and professional development. Here’s an overview of what is available:
 
-1. **Community Support**: The engineering school prides itself on fostering a community where members look out for each other. The programs and resources provided are essential in supporting students' commitments and helping them navigate their educational paths.
+1. **Engineering Community**: The Pratt School fosters a supportive community that values collaboration and individual growth. Faculty and staff are committed to knowing each student by name and helping them navigate their academic journeys.
 
-2. **Advising Team**: Each student has access to a dedicated advising team, including a 360 coach, academic dean, and departmental advisor. This team assists students in identifying and pursuing their academic and personal goals, offering guidance and referrals to various resources across the university.
+2. **Advising and Support**: Each student has access to a 360 coach, academic dean, and departmental advisor who assist with identifying academic interests and personal goals. These advisors are able to connect students to a broad array of resources at Duke.
 
-3. **Comprehensive Resources**: The Duke Student Affairs department maintains an ever-evolving list of resources, including health and wellness support, connections to diverse identities and cultures, and academic help. 
+3. **Student Resources**: The Duke Student Affairs office maintains an updated list of various student resources, including health and wellness services, and opportunities for engaging with diverse identities and cultures.
 
-4. **Alumni Network**: Students can connect with nearly 15,000 Duke Engineering alumni through the “Ask a Blue Devil” portal, allowing them to seek advice and guidance from those who have previously navigated the same experiences.
+4. **Alumni Network**: Students can tap into a vast network of nearly 15,000 alumni through the ""Ask a Blue Devil"" portal, facilitating mentoring and guidance from individuals who have navigated similar paths.
 
-5. **E-Portfolio Development**: Opportunities are provided for students to build a strong e-portfolio, enabling them to showcase their skills and achievements effectively.
+5. **Student Assistance Programs**: Financial support is available for eligible undergraduates through initiatives like the Maclin Endowment Fund, which offers grants for educational opportunities not covered by financial aid, such as computer repairs or educational travel.
 
-6. **Financial Assistance Programs**: Programs such as the Maclin Endowment Fund and WIN Empowerment Fund are available to support eligible students in covering costs for educational opportunities that may not be covered by financial aid, including educational travel and necessary resources.
+6. **Health & Wellness**: Graduate students have access to health and wellness coaching services, which is a unique offering for an engineering school.
 
-7. **Career Services**: For graduate students, the Career Services team at the Pratt School specializes in preparing them for success in the workplace. This includes individual coaching, workshops, networking opportunities, and access to recruitment events and interview preparation resources.
+7. **Design and Innovation Spaces**: The Christensen Family Center for Innovation is a key resource for fostering entrepreneurship. This facility supports students from undergraduate to postdoctoral researchers in developing their innovative ideas.
 
-These resources collectively ensure that engineering students at Pratt School of Engineering have the support they need to thrive academically and professionally. 
+8. **Career Development Opportunities**: The Pratt School has pioneered genuine career exploration programs for PhD students, expanding career possibilities in industry and public policy.
 
-For more details, you can visit the [Undergraduate Student Resources page](https://pratt.duke.edu/life/resources/undergrad/) at the Duke Pratt School of Engineering.","The Pratt School of Engineering at Duke University offers a variety of facilities and resources to support its engineering students in their academic and research endeavors. Here's an overview of some of these facilities and resources:
+9. **Facilities**: Students benefit from various hands-on learning environments, including maker spaces, labs equipped for cutting-edge research, and resources for experiential learning both on campus and in collaboration with industry partners.
+
+Moreover, Pratt School emphasizes enriching the student experience through comprehensive support mechanisms and engaging learning opportunities, ensuring that students are well-equipped for their future endeavors in the fields of engineering and technology. 
+
+You can find more about these resources by visiting the undergraduate resources page [here](https://pratt.duke.edu/life/resources/undergrad/).","The Pratt School of Engineering at Duke University offers a variety of facilities and resources to support its engineering students in their academic and research endeavors. Here's an overview of some of these facilities and resources:
 
 1. **Research Labs**: Pratt is home to numerous state-of-the-art research laboratories that cover a wide range of engineering disciplines. These labs are equipped with advanced technology and equipment to support cutting-edge research in areas like biomedical engineering, environmental engineering, materials science, and electrical and computer engineering.
 
@@ -609,20 +608,17 @@ For more details, you can visit the [Undergraduate Student Resources page](https
 
 8. **Entrepreneurship Resources**: Pratt students can take advantage of Duke’s strong focus on entrepreneurship through the Duke Innovation and Entrepreneurship Initiative, which offers programs, funding, and mentorship for students interested in starting their own ventures.
 
-These facilities and resources are designed to provide a comprehensive, hands-on educational experience, enabling students at Pratt School of Engineering to excel in their studies and research, and prepare for successful engineering careers.",0.6694340485114815,0.07347067426840212
-Duke/Pratt Info,"What percentage of Duke University students are enrolled in the Pratt School of Engineering, and what are the current student-to-faculty ratios in engineering courses?","- The total number of students enrolled in Duke University is 17,499.
-- The number of students enrolled in the Pratt School of Engineering is 3,300.
-- The student-to-faculty ratio at Pratt is 4.8:1.
+These facilities and resources are designed to provide a comprehensive, hands-on educational experience, enabling students at Pratt School of Engineering to excel in their studies and research, and prepare for successful engineering careers.",0.6790001998749576,0.0787100859760159,0.7,0.6,13.289738893508911
+Duke/Pratt Info,"What percentage of Duke University students are enrolled in the Pratt School of Engineering, and what are the current student-to-faculty ratios in engineering courses?","Approximately 11% of Duke University students are enrolled in the Pratt School of Engineering. The current student-to-faculty ratio in engineering courses is 4.8:1, with the Pratt School of Engineering having 163 full-time faculty members.","As of the most recent data, approximately 20-25% of Duke University's undergraduate students are enrolled in the Pratt School of Engineering. The student-to-faculty ratio for engineering courses can vary, but it is generally maintained at around 15:1 to 20:1 to ensure a quality educational experience with accessible faculty. These figures can fluctuate over time, so it is advisable to check Duke University's official resources or contact the university directly for the most accurate and up-to-date information.",0.5201828228170815,0.0963811859921397,0.7,0.3,18.44085717201233
+Duke/Pratt Info,How does the Pratt School of Engineering at Duke University support interdisciplinary learning and collaboration with other academic units on campus?,"The Pratt School of Engineering at Duke University actively fosters interdisciplinary learning and collaboration through a variety of initiatives and programs. A key aspect is the ability for students to participate in custom-designed interdisciplinary majors, allowing them to integrate knowledge and skills from different fields. Programs like FOCUS and Bass Connections encourage students to merge their interests, such as computer science, education, and policy, thus expanding their educational horizons.
 
-Percentage of students enrolled in Pratt School of Engineering can be calculated as:
-(3,300 / 17,499) * 100 = 18.86%
+Additionally, the school collaborates with various stakeholders to address significant global challenges, such as achieving energy goals and promoting sustainability. Faculty leverage seed funding to advance research, obtain grants, and initiate impactful projects that often cross disciplinary boundaries.
 
-Thus, approximately 18.86% of Duke University students are enrolled in the Pratt School of Engineering, and the current student-to-faculty ratio is 4.8:1.","As of the most recent data, approximately 20-25% of Duke University's undergraduate students are enrolled in the Pratt School of Engineering. The student-to-faculty ratio for engineering courses can vary, but it is generally maintained at around 15:1 to 20:1 to ensure a quality educational experience with accessible faculty. These figures can fluctuate over time, so it is advisable to check Duke University's official resources or contact the university directly for the most accurate and up-to-date information.",0.5096987531728477,0.12715739178426774
-Duke/Pratt Info,How does the Pratt School of Engineering at Duke University support interdisciplinary learning and collaboration with other academic units on campus?,"The Pratt School of Engineering at Duke University supports interdisciplinary learning and collaboration through its commitment to integrative education across various academic units. Key initiatives include programs such as Bass Connections, which facilitates collaborative, inquiry-based projects involving students from different disciplines. The school encourages undergraduates to create their own interdisciplinary majors and embeds collaborative courses, like Engineering 101, into the curriculum to promote teamwork and project-based learning.
+Duke also emphasizes project-based learning, encouraging students to work in teams to solve real-world problems, thus equipping them with critical thinking and communication skills essential for modern challenges.
 
-Graduate programs, such as Cognitive Neuroscience, highlight interdisciplinary education by involving multiple departments during the first year of study. Additionally, Duke has invested significantly in resources and training for students and faculty to enhance teamwork, project management, and partnerships with external organizations. Community engagement is prioritized, with many projects collaborating with local organizations to address real-world challenges.
+Moreover, Duke's involvement in events like the Triangle AI Summit showcases its commitment to engaging with the evolving landscape of artificial intelligence. As a hub for AI research, the university invites collaboration from various disciplines to explore and address ethical, social, and environmental implications of AI.
 
-Duke's interdisciplinary approach is further supported by infrastructure such as the new Center for Community Engagement, which enhances community-engaged research. Overall, the Pratt School of Engineering fosters a culture of interdisciplinary collaboration, positioning students to tackle complex global challenges effectively.","The Pratt School of Engineering at Duke University places a strong emphasis on interdisciplinary learning and collaboration, both within the engineering disciplines and with other academic units on campus. Here are several ways Pratt supports this approach:
+Through these multidimensional approaches, Pratt not only supports the integration of engineering with other fields but also prepares students to tackle complex issues in innovative ways that benefit society as a whole.","The Pratt School of Engineering at Duke University places a strong emphasis on interdisciplinary learning and collaboration, both within the engineering disciplines and with other academic units on campus. Here are several ways Pratt supports this approach:
 
 1. **Interdepartmental Programs and Research Centers:** Pratt is involved in numerous interdisciplinary research centers and institutes that span various fields. These centers often include faculty from multiple departments and schools, facilitating cross-disciplinary research and learning opportunities. Examples include the Fitzpatrick Institute for Photonics, the Duke Institute for Brain Sciences, and the Duke Materials Initiative.
 
@@ -638,31 +634,8 @@ Duke's interdisciplinary approach is further supported by infrastructure such as
 
 7. **Seminars and Workshops:** The school organizes and participates in seminars, workshops, and conferences that encourage interdisciplinary dialogue and partnerships, often bringing in speakers and participants from outside the traditional bounds of engineering.
 
-Through these initiatives and structures, the Pratt School of Engineering actively fosters an environment that values and promotes interdisciplinary learning and collaboration across the university.",0.5720537743048686,0.04462319491952378
-Duke/Pratt Info,"What opportunities for internships, co-ops, and industry partnerships does the Pratt School of Engineering offer to enhance student career readiness?","The Pratt School of Engineering at Duke University provides extensive opportunities for internships, co-ops, and industry partnerships to enhance student career readiness. Below are the key offerings:
-
-1. **Career Services**: The school boasts a dedicated career services team offering personalized support to students through career advising, resume and cover letter workshops, and interview preparation. 
-
-2. **Engineering Career Hub**: This online portal connects engineering students with valuable resources, including:
-   - Internship opportunities
-   - Employer profiles and job listings
-   - A calendar of recruiting events.
-   This hub helps students access industry contacts and gain insights into potential career paths.
-
-3. **Industry Events**: Noteworthy events such as TechConnect provide students with opportunities to meet and network with leading high-tech employers, enabling them to secure internships and job placements effectively.
-
-4. **Undergraduate and Graduate Support**: 
-   - For undergraduate students: The Duke Career Center is actively involved in their career exploration even before senior year, offering tailored resources specifically for engineering students.
-   - For master’s students: A dedicated team supports graduate engineering students, with many securing jobs within six months of graduation.
-   - For PhD students: The Career Hub helps PhD students explore various career paths beyond academia, with programs like PhD Plus that prepare them for leadership roles in diverse fields.
-
-5. **Community and Networking**: The school emphasizes a close-knit community, fostering strong relationships among students, faculty, and alumni, which facilitates networking opportunities and mentorship.
-
-6. **Student Assistance Programs**: Initiatives like the Maclin Endowment Fund provide financial support for eligible students to cover expenses related to educational opportunities, ensuring that all students can access the resources they need to succeed.
-
-Overall, the Pratt School of Engineering is committed to preparing students for successful careers in their respective fields through comprehensive resources and support structures. 
-
-For more information, you can visit the [Pratt School of Engineering Career Services page](https://pratt.duke.edu/life/resources/career-services/).","The Pratt School of Engineering at Duke University offers numerous opportunities to enhance student career readiness through internships, co-ops, and industry partnerships. Here are some of the key initiatives and opportunities available:
+Through these initiatives and structures, the Pratt School of Engineering actively fosters an environment that values and promotes interdisciplinary learning and collaboration across the university.",0.620674553058237,0.04457070048434948,0.8,0.7,11.62497878074646
+Duke/Pratt Info,"What opportunities for internships, co-ops, and industry partnerships does the Pratt School of Engineering offer to enhance student career readiness?","The Pratt School of Engineering at Duke University offers extensive resources to enhance student career readiness through a variety of internship, co-op, and industry partnership opportunities. Each year, Duke Engineering students participate in over 100 internships, providing them with real-world experiences and exposure to industry practices. Key components of the career services include personalized career advising, a dedicated Engineering Career Hub, and access to employer profiles, job listings, and a calendar of recruiting events. Additionally, undergraduate, master’s, and PhD students benefit from specialized support tailored to their career paths, including workshops, networking opportunities, and guidance on resumes and interviewing skills. This comprehensive support system helps students secure internships and launch meaningful careers in various fields, including artificial intelligence, cybersecurity, and engineering management.","The Pratt School of Engineering at Duke University offers numerous opportunities to enhance student career readiness through internships, co-ops, and industry partnerships. Here are some of the key initiatives and opportunities available:
 
 1. **Internships and Co-ops**: Pratt School of Engineering encourages students to gain practical experience through internships and cooperative education programs. These opportunities are facilitated by partnerships with various companies and organizations, allowing students to work in real-world engineering environments and apply their academic knowledge.
 
@@ -678,23 +651,30 @@ For more information, you can visit the [Pratt School of Engineering Career Serv
 
 7. **Student Organizations and Competitions**: Many student organizations at Pratt focus on specific fields of engineering and offer hands-on project experiences. These organizations often participate in national and international competitions, providing networking opportunities and practical skills development.
 
-By leveraging these resources, students at the Pratt School of Engineering can enhance their career readiness and gain valuable experience that is vital for their future careers in engineering and related fields.",0.634839116360916,0.09618736736235899
-Duke/Pratt Info,"How does Duke University's campus culture and student life cater to engineering students at Pratt, and what extracurricular activities or organizations are popular among them?","Duke University’s Pratt School of Engineering fosters a vibrant campus culture and supportive student life specifically designed for engineering students. The Pratt School emphasizes collaboration, peer support, and hands-on experiences, creating an environment where students can engage deeply with their education and community.
+By leveraging these resources, students at the Pratt School of Engineering can enhance their career readiness and gain valuable experience that is vital for their future careers in engineering and related fields.",0.6621000340816264,0.03059574562647563,0.9,0.8,26.19134521484375
+Duke/Pratt Info,"How does Duke University's campus culture and student life cater to engineering students at Pratt, and what extracurricular activities or organizations are popular among them?","Duke University's Pratt School of Engineering fosters a unique campus culture and student life that is particularly beneficial for engineering students. The school emphasizes an engaging and supportive environment, with a focus on collaboration, community building, and professional development. 
 
-1. **Campus Culture**: The Pratt School nurtures an intimate community where faculty and staff know each student by name, facilitating strong professional relationships and a supportive atmosphere. This community-oriented approach fosters an environment where students feel valued and encouraged to seek help and mentorship. Activities such as the welcoming picnic for international students at the scenic Eno River exemplify how the school helps new students acclimate to university life.
+Key aspects of the campus culture at Pratt include:
 
-2. **Support for Health & Wellness**: Recognizing the unique pressures of engineering studies, Pratt offers wellness resources, including access to health and wellness coaching. This commitment to student well-being ensures that students are supported both academically and personally.
+1. **Hands-On Learning**: Students participate in active, hands-on projects, including designing innovative technological solutions and participating in competitions such as building racecars and developing rockets. This experiential learning approach enhances problem-solving skills and confidence.
 
-3. **Extracurricular Activities and Organizations**: The Pratt School provides a multitude of clubs and organizations that cater to diverse interests, ranging from robotics, aerospace, and electric vehicles to initiatives focused on international development and promoting inclusivity in STEM fields. Some of the notable organizations include:
-   - **Duke Hyperloop**: A student-led initiative focusing on innovative transport solutions.
-   - **Duke Robotics**: Engaging students in building robots for competitions.
-   - **Duke Engineers for International Development**: Working on engineering projects that benefit communities globally.
-   - **Females Excelling More in Math, Engineering & Science (FEMMES)**: Aimed at increasing female representation and support in STEM fields.
-   - **HackDuke**: One of the largest hackathons in the Southeast, promoting innovation and creative problem-solving.
+2. **Supportive Community**: Pratt is characterized by its close-knit community. The relatively small size allows faculty and staff to know students personally, promoting lasting professional relationships that greatly support student success.
 
-Through hands-on projects, competitions, and collaborative opportunities, students are encouraged to apply what they learn in the classroom to real-world challenges. The Pratt School’s emphasis on teamwork and problem-solving prepares students to become not only skilled engineers but also leaders in their fields. 
+3. **Diversity and Inclusion Activities**: Events such as welcoming picnics for new students and access to health and wellness resources contribute to a friendly atmosphere, making it easier for students to acclimate to university life.
 
-In summary, Duke University’s Pratt School of Engineering combines a supportive community, wellness resources, and active extracurricular engagement to create a fulfilling and enriching student experience for engineering students.","Duke University's Pratt School of Engineering is known for offering a vibrant and supportive environment tailored specifically for engineering students. The campus culture emphasizes a blend of rigorous academics, innovative research opportunities, and a strong sense of community. Here’s how Duke’s campus culture and student life cater to engineering students at Pratt:
+4. **Entrepreneurship and Innovation**: Programs like the Christensen Family Center for Innovation encourage students to think innovatively and to engage in entrepreneurial endeavors, preparing them for impactful careers.
+
+Regarding extracurricular activities, there are numerous clubs and organizations that cater to engineering students:
+
+- **Duke Engineers for International Development (DEID)**: This group focuses on projects that benefit underserved communities.
+- **Duke Electric Vehicles (DEV)**: Students engage in the design and building of electric vehicles.
+- **Duke Robotics**: A platform for students to explore robotic technologies and collaborate on exciting projects.
+- **Duke Motorsports**: Allows students to design, manufacture, and race their own vehicles.
+- **Females Excelling More in Math, Engineering & Science (FEMMES+)**: A program that encourages female students to excel in engineering and technology fields.
+
+For further involvement, students can also join HackDuke, a student-led hackathon organization that challenges students to innovate in small groups, and join project teams such as MEDesign, which focuses on medical design and engineering solutions.
+
+Overall, the combination of a hands-on, supportive atmosphere along with a wealth of extracurricular opportunities makes Duke's Pratt School of Engineering a nurturing environment for engineering students to thrive academically and personally.","Duke University's Pratt School of Engineering is known for offering a vibrant and supportive environment tailored specifically for engineering students. The campus culture emphasizes a blend of rigorous academics, innovative research opportunities, and a strong sense of community. Here’s how Duke’s campus culture and student life cater to engineering students at Pratt:
 
 1. **Academic Support and Resources**: Engineering students at Pratt benefit from a range of academic resources, including tutoring services, mentorship programs, and access to state-of-the-art labs and facilities. Faculty members are often accessible and supportive, encouraging students to engage in research and hands-on projects.
 
@@ -713,8 +693,14 @@ In summary, Duke University’s Pratt School of Engineering combines a supportiv
 
 6. **Career Development**: The Pratt School has strong ties with industry, providing career fairs, internship opportunities, and networking events to help students connect with potential employers.
 
-Overall, Duke’s campus culture for engineering students at Pratt combines academic rigor with robust support systems and diverse extracurricular opportunities, creating a dynamic and enriching environment for growth and development.",0.7608103854205198,0.04333699262451055
-Duke/Pratt Info,What are the post-graduation employment or further education statistics and outcomes for engineering graduates from Duke University's Pratt School of Engineering?,"According to the Duke Pratt School of Engineering's official website, among engineering graduates, 76% were employed full-time, and 12% continued their education within six months after graduation. For more detailed insights, you can visit their official page on this topic at [Master's Student Outcomes | Duke Pratt School of Engineering](https://pratt.duke.edu/admissions/masters/outcomes/).","For engineering graduates from Duke University's Pratt School of Engineering, the post-graduation employment and further education statistics are generally very positive, reflecting the school's strong reputation and the high quality of its programs. While specific numbers can vary year by year, here are some typical outcomes you might expect based on past trends:
+Overall, Duke’s campus culture for engineering students at Pratt combines academic rigor with robust support systems and diverse extracurricular opportunities, creating a dynamic and enriching environment for growth and development.",0.767468373606791,0.06909779199214802,1.0,0.9,15.195276021957397
+Duke/Pratt Info,What are the post-graduation employment or further education statistics and outcomes for engineering graduates from Duke University's Pratt School of Engineering?,"The post-graduation employment and further education statistics for engineering graduates from Duke University's Pratt School of Engineering are as follows:
+
+- 76% of graduates are employed full-time within six months after graduation.
+- 12% are pursuing further education.
+- The average starting salary for graduates is $85,000.
+
+Additionally, many graduates work for notable companies such as Airbnb, Amazon, Apple, Google, Microsoft, and others, showcasing the strong employability of Duke engineering graduates. The programs also emphasize personalized career services and strong industry connections, which contribute to the high employment rates for graduates.","For engineering graduates from Duke University's Pratt School of Engineering, the post-graduation employment and further education statistics are generally very positive, reflecting the school's strong reputation and the high quality of its programs. While specific numbers can vary year by year, here are some typical outcomes you might expect based on past trends:
 
 1. **Employment Rate**: A significant majority of engineering graduates from Duke secure employment shortly after graduation. Many students receive job offers even before they graduate, often from competitive and well-regarded companies in the engineering and technology sectors.
 
@@ -726,16 +712,24 @@ Duke/Pratt Info,What are the post-graduation employment or further education sta
 
 5. **Career Services Support**: Duke's Pratt School of Engineering provides strong career services support, including internship and job placement assistance, alumni networking events, and career fairs that help facilitate successful job searches for students.
 
-For the most up-to-date and specific data, it would be best to check the latest career outcomes report published by Duke University's Pratt School of Engineering, as these reports are typically available on their website or through their career services office.",0.38933415617446687,1.985197907191708e-80
-Duke/Pratt Info,How has Pratt School of Engineering at Duke University incorporated sustainability and ethical considerations into its engineering curriculum and research initiatives?,"The Pratt School of Engineering at Duke University has proactively incorporated sustainability and ethical considerations into its engineering curriculum and research initiatives. This is emphasized through a commitment to equipping future engineering leaders with the skills necessary to tackle real-world challenges while maintaining a focus on both innovation and ethical responsibility.
+For the most up-to-date and specific data, it would be best to check the latest career outcomes report published by Duke University's Pratt School of Engineering, as these reports are typically available on their website or through their career services office.",0.6202691711640245,0.023701723413671234,0.8,0.7,11.013625144958496
+Duke/Pratt Info,How has Pratt School of Engineering at Duke University incorporated sustainability and ethical considerations into its engineering curriculum and research initiatives?,"The Pratt School of Engineering at Duke University has made significant strides in incorporating sustainability and ethical considerations into its curriculum and research initiatives. The approach to education emphasizes equipping future engineering leaders with innovation and ethical responsibility to tackle real-world challenges. 
 
-The curriculum includes specific programs and courses that address sustainability and ethics within engineering practice. This integration aims not only to foster technical skills but also to encourage students to think critically about the societal implications of their work. For example, the school's approach includes exposure to hands-on projects, where students might engage in design challenges that emphasize sustainable solutions.
+Key aspects of this integration include:
 
-Additionally, Duke Pratt emphasizes a holistic student experience that promotes health, wellness, and community engagement. They offer resources aimed at helping students explore how their work can positively impact society, which is crucial for forming ethical engineers. The community within the Pratt School is intimate, enabling faculty and staff to build strong relationships with students, fostering a culture where ethical considerations can be openly discussed and debated.
+1. **Innovative Educational Programs**: The Pratt School commits to fostering a culture of sustainability and ethics in engineering practices. This is evident through various initiatives designed to prepare students to make an environmental impact and address global challenges.
 
-The Christensen Family Center for Innovation at Duke Pratt prepares leaders to make significant impacts in their fields, particularly concerning ethical and sustainable innovations. This centers on producing graduates who are not just technically proficient, but also socially responsible.
+2. **Hands-on Learning Experiences**: The curriculum includes practical experiences, such as projects that require students to design solutions with sustainability in mind. For example, students engage in design challenges that blend creativity with responsible engineering, demonstrating the real-world impact of ethical decision-making in engineering.
 
-Overall, the Pratt School of Engineering ensures that sustainability and ethics are ingrained in both the educational and research frameworks, preparing engineering students to lead with integrity and foresight in a rapidly evolving global landscape.","The Pratt School of Engineering at Duke University has actively incorporated sustainability and ethical considerations into its curriculum and research initiatives in several ways:
+3. **Community Engagement**: The Pratt School promotes community support and resources aimed at empowering students to pursue educational opportunities relevant to sustainable practices. Programs such as the Christensen Family Center for Innovation inspire students to embark on projects that promote sustainability.
+
+4. **Interdisciplinary Initiatives**: Collaboration across various departments enhances the engagement with ethical and sustainable practices. Research at Duke encourages students to operate at the intersection of technology, policy, and social responsibility.
+
+5. **Student Resources and Support**: The school provides ongoing support to undergraduates, ensuring that they are well-equipped to tackle issues of ethics and sustainability. Resources such as advising teams and access to various community programs help foster a holistic educational environment.
+
+6. **Focus on Health and Wellness**: Recognizing the broader implications of engineering practices, the Pratt School invests in the health and wellness of students, which is intertwined with ethical engineering, as it affects communities and environments.
+
+To read more on how Duke's Pratt School of Engineering integrates these critical elements into its educational framework, view their [Educational Excellence and Character Development page](https://pratt.duke.edu/about/focus/202410-character/).","The Pratt School of Engineering at Duke University has actively incorporated sustainability and ethical considerations into its curriculum and research initiatives in several ways:
 
 1. **Curriculum Integration**: Pratt offers courses specifically focused on sustainability and ethics in engineering, ensuring that students grasp the importance of these considerations in their professional practice. Courses may include topics on sustainable design, environmental engineering, and the ethical implications of technology and engineering decisions.
 
@@ -751,32 +745,32 @@ Overall, the Pratt School of Engineering ensures that sustainability and ethics 
 
 7. **Community and Industry Partnerships**: Pratt often collaborates with industry and community partners to implement sustainable engineering solutions and practices in real-world applications, providing students with practical experience in ethical decision-making in the field of engineering.
 
-These efforts ensure that students at the Pratt School of Engineering are well-prepared to incorporate sustainability and ethical considerations into their future careers as engineers.",0.6978582300598747,0.09551330741873423
-Campus Events,"What major events are scheduled at Duke University this semester, and what are the themes of these events?","This semester, a major event scheduled at Duke University is the **Duke Datathon**.
+These efforts ensure that students at the Pratt School of Engineering are well-prepared to incorporate sustainability and ethical considerations into their future careers as engineers.",0.7469133894529068,0.12364862322988532,0.8,0.7,10.537194013595581
+Campus Events,"What major events are scheduled at Duke University this semester, and what are the themes of these events?","This semester, a major event scheduled at Duke University is the **Duke Datathon**. Here are the details:
 
-**Event Details:**
-- **Date:** April 25, 2025, to April 27, 2025
-- **Location:** Duke Health IPEC Building, 311 Trent Drive, Durham, NC 27710
-- **Theme:** The focus is on ""Data Science in Critical/Acute Care."" The event begins with a symposium followed by a two-day datathon where clinicians and data scientists collaborate to develop data-driven models using de-identified critical care datasets. 
-- **Registration:** Early registration (through February 28) costs $50 for trainees and $200 for faculty or industry participants. Fees will increase after March 1. 
-- **Contact:** A. Ian Wong, MD, PhD (email: a.ian.wong@duke.edu)
-- **Co-Sponsors:** Include +DataScience, Biomedical Engineering, Biostatistics and Bioinformatics, Center for Computational Thinking, Computer Science, Department of Medicine, DHTS Web Services, Electrical and Computer Engineering, and Pratt School of Engineering.
-- **Links:** [More Information](https://calendar.duke.edu/show?fq=id:CAL-8a000483-92c3adf6-0194-dd19428a-000027cfdemobedework@mysite.edu) | [Event Website](https://sites.duke.edu/datathon2025/)
+- **Event Name**: Duke Datathon
+- **Dates**: April 25-27, 2025
+- **Location**: Duke Health IPEC Building, 311 Trent Drive, Durham, NC 27710
+- **Theme**: The focus of this event is on **Data Science in Critical/Acute Care**. The event will kick off with a symposium on Friday, April 25, and it will be followed by a two-day datathon. During the datathon, clinicians and data scientists will collaborate to develop data-driven models using de-identified critical care datasets. No prior experience is required, and teams will be formed to blend clinical and data science expertise.
+- **Registration**: Early registration is available until February 28, with fees starting at $50 for trainees and $200 for faculty or industry participants. Please note that registration fees increase after March 1, and sponsorship opportunities may also be available.
+- **Contact**: For further details, you can reach out to A. Ian WONG, MD, PhD at a.ian.wong@duke.edu.
 
-This showcases the collaborative spirit and the integration of clinical and data science expertise.","I'm sorry, but I don't have access to the latest schedule of events at Duke University for the current semester. You might consider checking Duke University’s official website or their event calendar for the most accurate and up-to-date information on major events and their themes. Additionally, university social media channels and newsletters can be helpful resources for event announcements and details.",0.3417449235215303,7.043839363561047e-79
-Campus Events,"How can students and faculty stay updated on upcoming events at Duke University, and are there any specific platforms or newsletters they should follow?","Students and faculty at Duke University can stay updated on upcoming events through several key resources and platforms:
+For more information, you can visit the [Duke Datathon event page](https://sites.duke.edu/datathon2025/) or check the official event listing [here](https://calendar.duke.edu/show?fq=id:CAL-8a000483-92c3adf6-0194-dd19428a-000027cfdemobedework@mysite.edu).","I'm sorry, but I don't have access to the latest schedule of events at Duke University for the current semester. You might consider checking Duke University’s official website or their event calendar for the most accurate and up-to-date information on major events and their themes. Additionally, university social media channels and newsletters can be helpful resources for event announcements and details.",0.37075191696935844,6.419117163611266e-79,0.5,0.0,7.8903350830078125
+Campus Events,"How can students and faculty stay updated on upcoming events at Duke University, and are there any specific platforms or newsletters they should follow?","Students and faculty at Duke University can stay updated on upcoming events through several platforms and newsletters. Here are some key resources:
 
-1. **Duke University Events Calendar**: The primary source for information on university events is the Duke Events Calendar. It provides a comprehensive listing of activities happening across campus. You can access it [here](https://calendar.duke.edu).
+1. **Duke Event Calendar**: The primary resource for staying updated on all campus events is the [Duke Event Calendar](https://calendar.duke.edu). This platform publishes event entries throughout the campus and offers features to filter events by categories and interests.
 
-2. **Email Newsletters**: Duke often sends out newsletters to students and faculty that highlight upcoming events, workshops, and opportunities. Signing up for relevant mailing lists is a great way to receive regular updates directly in your inbox.
+2. **Event Updates**: You can subscribe to receive updates about events through the calendar. This feature allows you to have relevant event information sent directly to your email.
 
-3. **Social Media**: Following Duke University’s official accounts on platforms such as Twitter, Facebook, and Instagram can help keep you informed about the latest news and events.
+3. **Social Media**: Many departments, student organizations, and clubs at Duke maintain social media accounts (on platforms like Facebook, Twitter, and Instagram) where they post about upcoming events. Following these accounts can provide real-time updates.
 
-4. **Departmental Newsletters/Communications**: Many departments within Duke, including those in the Pratt School of Engineering, often communicate events and news specific to their fields via their websites or mailing lists. 
+4. **Newsletters**: Various departments and organizations within Duke may have their own newsletters. Faculty and students should check the web pages of specific departments or visit [Duke's News & Communications page](https://news.duke.edu) for more information on how to subscribe.
 
-5. **Event Example**: For instance, one upcoming event is the **Duke Datathon** scheduled from April 25 to April 27, 2025. This event focuses on ""Data Science in Critical/Acute Care"" and involves collaboration between clinicians and data scientists. It will take place at the Duke Health IPEC Building, and early registration starts at $50 for trainees and $200 for faculty or industry participants. More details can be found [here](https://sites.duke.edu/datathon2025/) and through its event link [event link](https://calendar.duke.edu/show?fq=id:CAL-8a000483-92c3adf6-0194-dd19428a-000027cfdemobedework@mysite.edu).
+5. **Office of Student Affairs**: The [Duke University Student Affairs](https://studentaffairs.duke.edu) website also offers information on events and activities happening across campus.
 
-By utilizing these platforms and resources, students and faculty can effectively stay connected with the vibrant community of events at Duke University.","To stay updated on upcoming events at Duke University, students and faculty can utilize several resources and platforms:
+For a detailed guide on using the Duke Event Calendar, you can refer to the help section [here](https://calendar.duke.edu/help), which includes information on publishing events, downloading events to personal calendars, and feeding events to departmental websites.
+
+Staying connected via these platforms will help ensure that students and faculty never miss an important event or opportunity at Duke University.","To stay updated on upcoming events at Duke University, students and faculty can utilize several resources and platforms:
 
 1. **Duke University Website**: The official Duke University website often has a calendar or events page that lists upcoming events, lectures, workshops, and more. It's a good starting point for general university-wide events.
 
@@ -794,10 +788,12 @@ By utilizing these platforms and resources, students and faculty can effectively
 
 8. **Bulletin Boards and Posters**: Physical bulletin boards around campus and posters in common areas are traditional but still effective ways to learn about campus events.
 
-By actively engaging with these platforms and resources, students and faculty can easily stay informed about the diverse range of events happening at Duke University.",0.7003195068041919,0.12093864468178313
-Campus Events,"Are there opportunities for students to participate in the planning and execution of events at Duke University? If so, how can they get involved?","Yes, there are numerous opportunities for students to participate in the planning and execution of events at Duke University. Students can get involved through various organizations and clubs that actively engage in event planning and execution. For example, at the Pratt School of Engineering, students can be part of engineering-related clubs and teams, such as Duke Engineers for International Development, Duke Robotics, and HackDuke, among others. These groups not only allow students to collaborate on engineering projects but also plan and execute events, workshops, and competitions that align with their interests and passions.
+By actively engaging with these platforms and resources, students and faculty can easily stay informed about the diverse range of events happening at Duke University.",0.6987434458034051,0.060547795752525564,1.0,0.9,15.55303406715393
+Campus Events,"Are there opportunities for students to participate in the planning and execution of events at Duke University? If so, how can they get involved?","Yes, there are various opportunities for students at Duke University to participate in the planning and execution of events. The Division of Student Affairs is actively involved in managing a wide array of events for faculty, staff, and students. Students can engage with various programming initiatives and identity and cultural centers, which often involve collaborative planning and execution of events.
 
-To get involved, students can reach out to these student organizations, attend meetings, or contact faculty advisors to learn more about how to participate in upcoming events. Additionally, students interested in broader community engagement can explore opportunities through the Duke Community Partnerships, which may facilitate further involvement in planning and executing events within the university's larger ecosystem.","Yes, there are numerous opportunities for students to participate in the planning and execution of events at Duke University. Here are some ways students can get involved:
+To get involved, students can consider joining student organizations and clubs that align with their interests. These organizations often plan and manage events, and participation in them provides a hands-on experience in event planning. You can explore these opportunities further through the Duke Student Affairs website and various student organization portals.
+
+For specific details, you can check the Duke Student Affairs events and activities policy here: [Duke Event and Activities Policy](https://students.duke.edu/belonging/space-finder/events-and-activities-policy/). This resource outlines guidelines for hosting events at Duke and provides information on how students can get actively involved in the events held on campus.","Yes, there are numerous opportunities for students to participate in the planning and execution of events at Duke University. Here are some ways students can get involved:
 
 1. **Student Organizations**: Joining a student organization is one of the most common ways to get involved. There are hundreds of student groups at Duke, many of which plan and host events regularly. Students can find and join organizations through the DukeGroups platform, which lists available clubs and their upcoming activities.
 
@@ -813,26 +809,28 @@ To get involved, students can reach out to these student organizations, attend m
 
 7. **Internships and Work-Study**: Some student jobs and internships on campus might involve event planning. Positions could be related to marketing, communications, or administrative roles within different departments or centers.
 
-Students interested in these opportunities should check the specific websites, contact the relevant groups or offices, and attend interest meetings to learn more about how they can contribute to the vibrant campus life at Duke. Additionally, staying active on Duke’s Listservs and following social media pages of student groups can keep students informed about upcoming opportunities to get involved.",0.7065446558979791,0.0641935265292091
-Campus Events,"What are some of the most popular annual events that take place on Duke University's campus, and how have they evolved over the years?","Some of the most popular annual events that take place on Duke University's campus include:
+Students interested in these opportunities should check the specific websites, contact the relevant groups or offices, and attend interest meetings to learn more about how they can contribute to the vibrant campus life at Duke. Additionally, staying active on Duke’s Listservs and following social media pages of student groups can keep students informed about upcoming opportunities to get involved.",0.6826101077319103,0.034725832036769974,0.8,0.7,13.04220986366272
+Campus Events,"What are some of the most popular annual events that take place on Duke University's campus, and how have they evolved over the years?","Duke University hosts a variety of popular annual events that celebrate the campus community, arts, and diversity. Some noteworthy annual events are:
 
-1. **Haunted Landscapes** - A unique event sponsored by Humanities Unbounded and the Franklin Humanities Institute, allowing participants to explore spooky themes and cultural narratives.
-   
-2. **Duke Research on Tap** - This event takes place at the Gothic Grill and is focused on engaging discussions related to research, allowing students to interact with faculty in a casual setting.
+1. **Haunted Landscapes**: This event, held in April, focuses on exploring themes of horror in landscapes through various forms of storytelling and art.
 
-3. **MUSE Student Night at the Nasher** - A popular event where students can visit the Nasher Museum of Art and enjoy exclusive access and activities.
+2. **Duke Research on Tap**: Aimed at graduate students, this event combines research with social engagement, encouraging students to share their research in a relaxed setting.
 
-4. **Annual Matzah Brei Dinner** - Hosted by Jewish Life at Duke, this dinner allows students to celebrate Jewish culture and community.
+3. **MUSE Student Night at the Nasher**: This event highlights student involvement in the arts and provides a unique opportunity for students to engage with art exhibits.
 
-5. **Spring Plant Sale** - An opportunity for the Duke community to purchase plants from the Duke Campus Farm, promoting sustainability and green practices.
+4. **Annual Matzah Brei Dinner**: This event, organized by Jewish Life at Duke, brings together students to celebrate Jewish culture and traditions.
 
-6. **LDOC Festival (Last Day of Classes)** - This festival on Chapel Quad includes various activities, food, and entertainment, symbolizing the end of the academic year.
-   
-7. **Angels Among Us 5K & Walk of Hope** - Organized by the Department of Neurosurgery, this event raises awareness and funds for neurological health.
+5. **Spring Plant Sale**: A community-focused event where students and community members can purchase plants and learn about gardening from the Duke Campus Farm.
 
-8. **Triangle AI Summit** - A significant event focusing on artificial intelligence, featuring talks, workshops, and discussions, attracting participants from academia and industry.
+6. **LDOC Festival on Chapel Quad**: The Last Day of Classes (LDOC) festival is a vibrant celebration that includes activities, food, and entertainment, bringing students together to mark the end of the academic year.
 
-The evolution of these events often reflects the changing interests and cultural dynamics of the Duke community. They adapt to incorporate wider themes and topics that are relevant to students and faculty, thus fostering greater community engagement and interaction. For more details and a complete list of events, you can visit the [Duke Event Calendar](https://calendar.duke.edu/).","Duke University hosts several popular annual events on its campus that have grown and evolved over the years. Here are some of the notable ones:
+7. **Angels Among Us 5K & Walk of Hope**: Sponsored by the Department of Neurosurgery, this event raises awareness and funds for neurological health.
+
+8. **Triangle AI Summit**: A significant gathering of AI enthusiasts and professionals to discuss advancements and future trends in artificial intelligence.
+
+Over the years, these events have evolved to include more interactive and community-based activities, focusing on engagement and inclusivity. They reflect the university’s commitment to fostering a diverse culture and promoting student involvement in various aspects of campus life. Events often blend educational components with social elements, encouraging students to explore their interests while building connections with peers and faculty. 
+
+For more information about upcoming events, you can visit the [Duke Events Calendar](https://calendar.duke.edu/).","Duke University hosts several popular annual events on its campus that have grown and evolved over the years. Here are some of the notable ones:
 
 1. **LDOC (Last Day of Classes):** 
    - **Overview:** LDOC is a major celebration marking the end of the academic year. It features concerts, food, and various activities across the campus.
@@ -858,20 +856,14 @@ The evolution of these events often reflects the changing interests and cultural
    - **Overview:** This festival showcases the creative talents of Duke students and faculty through performances, exhibits, and workshops.
    - **Evolution:** The Arts Festival has grown to include more interdisciplinary and innovative projects, emphasizing collaboration across different artistic mediums.
 
-These events reflect Duke University's vibrant campus culture, fostering community spirit and engagement, while evolving to incorporate broader student involvement and interests.",0.6418549594693033,0.04959373920842087
-Campus Events,How does Duke University ensure inclusivity and diversity in the events hosted on campus?,"Duke University actively ensures inclusivity and diversity in its events through various programs and initiatives. The university strives to create a community built on collaboration, innovation, and belonging, emphasizing the importance of a robust exchange of ideas that flourish with diverse perspectives and backgrounds. Key initiatives include:
+These events reflect Duke University's vibrant campus culture, fostering community spirit and engagement, while evolving to incorporate broader student involvement and interests.",0.6272125709551952,0.050200161334753524,0.5,0.3,13.09079098701477
+Campus Events,How does Duke University ensure inclusivity and diversity in the events hosted on campus?,"Duke University is committed to fostering a community that emphasizes inclusivity and diversity in every aspect, including events on campus. This commitment is grounded in their belief that a thriving community is built on collaboration, innovation, creativity, and belonging. The university recognizes that its collective success relies on the robust exchange of ideas, which is most effective when diverse perspectives and experiences flourish.
 
-1. **Duke Affinity Groups** - These groups aim to foster an inclusive environment where members can share experiences and support each other. For instance, the Freeman Center for Jewish Life serves the Jewish community while the Mary Lou Williams Center for Black Culture promotes racial understanding and knowledge of Black culture.
+Duke strives to create a welcoming atmosphere where every member, regardless of race, gender, age, ethnicity, cultural heritage, religious beliefs, sexual orientation, gender identity, or socioeconomic status, feels secure, valued, and respected. This is essential for enabling all voices to be heard and for ensuring the participation of individuals from all walks of life in campus life.
 
-2. **Center for Sexual and Gender Diversity** - This center aims to create an inclusive climate for students, staff, faculty, and alumni with marginalized sexual orientations and gender identities by providing education, advocacy, and support resources.
+The university's community standard, which all students pledge to uphold, further reinforces these principles, highlighting honesty, fairness, respect, and accountability. Duke also actively promotes the inclusion of various identity and cultural centers, fosters leadership, and provides family programs, career advising, and other personalized services to ensure that all community members are engaged.
 
-3. **Duke BioCoRE** - This program engages undergraduates, graduate students, and faculty in the biosciences, promoting diversity in scientific research and student career development.
-
-4. **Duke Office for Institutional Equity** - This office serves the university and health system communities regarding diversity, equity, and affirmative action.
-
-5. **Various Student Organizations** - Duke has a large number of student organizations representing different cultural and social identities, such as the Muslim Students Association (MSA) and the Women in Science and Engineering (WiSE), which focus on advocating for their respective communities.
-
-Through these programs, Duke University aims not only to create a supportive environment for underrepresented groups but also to ensure that diverse voices are heard and respected within the university community.","Duke University has implemented several strategies to ensure inclusivity and diversity in the events hosted on campus. Here are some of the key approaches:
+Through these initiatives, Duke University not only aims for equality in participation but also seeks to celebrate and affirm the rich diversity within its community, ensuring that everyone is an integral part of university life.","Duke University has implemented several strategies to ensure inclusivity and diversity in the events hosted on campus. Here are some of the key approaches:
 
 1. **Diverse Programming**: Duke actively promotes a wide range of events that celebrate different cultures, identities, and perspectives. This includes guest lectures, cultural festivals, panel discussions, and workshops that focus on various aspects of diversity.
 
@@ -889,11 +881,37 @@ Through these programs, Duke University aims not only to create a supportive env
 
 8. **Training and Workshops**: Duke offers training and workshops for staff and students on topics related to diversity, equity, and inclusion. These programs are designed to raise awareness and provide the skills necessary to host inclusive events.
 
-By implementing these strategies, Duke University strives to ensure that all events on campus are inclusive and reflective of the diverse community it serves.",0.6672130038379188,0.030792084821349153
-Campus Events,"Are there any guest speakers or notable individuals scheduled to visit Duke University this year, and what topics will they be covering?","There is an event called the ""Duke Datathon"" scheduled for April 25-27, 2025, at the Duke Health IPEC Building. This event will focus on ""Data Science in Critical/Acute Care."" The datathon will feature a symposium on the first day, followed by a collaborative session where clinicians and data scientists will work together to develop data-driven models using de-identified critical care datasets. Notable sponsors for this event include AI Health and various departments from Duke University including Biomedical Engineering, Computer Science, and Electrical and Computer Engineering.
+By implementing these strategies, Duke University strives to ensure that all events on campus are inclusive and reflective of the diverse community it serves.",0.5895838019400775,0.027567083788977407,0.7,0.6,14.71324110031128
+Campus Events,"Are there any guest speakers or notable individuals scheduled to visit Duke University this year, and what topics will they be covering?","Yes, there are notable events scheduled at Duke University this year. One such event is the **Duke Datathon**, which is set to take place from **April 25 to April 27, 2025**. It focuses on ""Data Science in Critical/Acute Care."" 
 
-For further details, you can visit the event page [here](https://sites.duke.edu/datathon2025/).","I currently don’t have access to real-time events or schedules. To find information on guest speakers or notable individuals visiting Duke University, it would be best to check the university's official events calendar on their website or contact specific departments that might host such events. They often provide updates on lectures, seminars, and special guest appearances along with details about topics to be covered. Additionally, following Duke University's social media accounts can be a good way to stay informed about upcoming events and speakers.",0.14128706524996185,1.0627364919692423e-231
-Campus Events,"How do student organizations at Duke University contribute to the campus event calendar, and what are some examples of events they host?","Student organizations at Duke University contribute significantly to the campus event calendar by organizing a wide variety of events designed to engage the community. They host cultural festivals, educational workshops, social events, and awareness campaigns that foster a sense of belonging among students. The Office of Student Affairs facilitates this process by providing guidelines for hosting events, ensuring a safe and enjoyable atmosphere for all participants. Examples of events include cultural celebrations, dance parties, educational panels, and vigils in response to social issues. For more details, you can explore the [University Events and Activities Policies page](https://students.duke.edu/belonging/space-finder/events-and-activities-policy/).","Student organizations at Duke University play a significant role in shaping the campus event calendar by hosting a wide variety of events that cater to diverse interests and foster community engagement. These organizations contribute to the vibrant campus life by organizing academic, cultural, social, and recreational events. Here are some examples of events they host:
+Details of the event:
+- **Location**: Duke Health IPEC Building, 311 Trent Drive, Durham, NC 27710
+- **Description**: The weekend will include a symposium on the first day, followed by a datathon where clinicians and data scientists will collaborate to develop data-driven models utilizing de-identified critical care datasets. Participation does not require prior experience, and teams will be formed to blend clinical and data science expertise. 
+- **Registration Fees**: Early registration starts at $50 for trainees and $200 for faculty or industry participants, with fees increasing after February 28.
+- **Sponsors**: The event is sponsored by AI Health, with co-sponsorships from various departments including Biomedical Engineering, Biostatistics and Bioinformatics, and the Pratt School of Engineering.
+- **Contact**: For more information, you can reach out to A. Ian Wong, MD, PhD at a.ian.wong@duke.edu.
+- **Link to Event**: [Duke Datathon](https://calendar.duke.edu/show?fq=id:CAL-8a000483-92c3adf6-0194-dd19428a-000027cfdemobedework@mysite.edu) and [Event Website](https://sites.duke.edu/datathon2025/).
+
+This event presents a great opportunity to engage with significant topics in the field of data science applied to healthcare.","I currently don’t have access to real-time events or schedules. To find information on guest speakers or notable individuals visiting Duke University, it would be best to check the university's official events calendar on their website or contact specific departments that might host such events. They often provide updates on lectures, seminars, and special guest appearances along with details about topics to be covered. Additionally, following Duke University's social media accounts can be a good way to stay informed about upcoming events and speakers.",0.26565735427884596,1.0370642140370256e-231,0.5,0.2,8.71264386177063
+Campus Events,"How do student organizations at Duke University contribute to the campus event calendar, and what are some examples of events they host?","Student organizations at Duke University play a critical role in contributing to the campus event calendar by hosting a diverse range of events that reflect the interests and values of the student body. The Student Affairs department oversees event management for faculty, staff, and students, providing guidelines for hosting events in accordance with university policies to ensure the safety and well-being of the community. 
+
+Here’s how student organizations contribute:
+
+1. **Hosting Events**: Student organizations organize various activities including social events, cultural celebrations, educational workshops, guest lectures, and community engagements. Events can cater to different audiences and can vary in size, held in university-managed buildings or outdoor spaces.
+
+2. **Event Support and Resources**: Duke's Campus Life framework, which includes Conference and Event Services (CES), Venue and Production Management (VPM), and Student Involvement & Leadership (SIL), supports student organizations in executing their events. These services include venue booking, event planning consultations, and management of campus spaces.
+
+3. **Event Approval Process**: To ensure compliance with university standards, recognized student organizations must submit their event proposals to get approval. This collaboration ensures that events align with Duke's mission and guidelines, providing students with opportunities to participate actively in campus life.
+
+4. **Examples of Events**:
+   - Academic conferences
+   - Social gatherings
+   - Cultural events (e.g., cultural showcases or heritage months)
+   - Guest speaker sessions
+   - Vigils and memorials
+   - Educational workshops related to various fields of study.
+
+Overall, student organizations significantly enrich the Duke University campus experience by introducing a vibrant array of events that foster community engagement, cultural diversity, and educational enrichment, all while adhering to established guidelines for safe and respectful expression.","Student organizations at Duke University play a significant role in shaping the campus event calendar by hosting a wide variety of events that cater to diverse interests and foster community engagement. These organizations contribute to the vibrant campus life by organizing academic, cultural, social, and recreational events. Here are some examples of events they host:
 
 1. **Cultural Festivals**: Many student organizations focus on cultural celebration and education. For example, Diwali Night, organized by the Duke Indian Cultural Association, features performances, food, and traditional celebrations. Similarly, the International Association at Duke might host an International Festival showcasing diverse cultures through food, music, and dance.
 
@@ -907,20 +925,22 @@ Campus Events,"How do student organizations at Duke University contribute to the
 
 6. **Health and Wellness**: Wellness organizations might organize workshops, fitness classes, or mental health awareness events that aim to promote student well-being. These can include yoga sessions, relaxation workshops, or discussions led by health professionals.
 
-Through these events, student organizations at Duke University not only enhance the campus experience but also provide platforms for students to explore interests, develop skills, and engage with the community.",0.5617848642833642,0.011679721488916299
-Campus Events,What measures has Duke University implemented to ensure the safety and security of attendees during large on-campus events?,"Duke University implements several measures to ensure the safety and security of attendees during large on-campus events. Key measures include:
+Through these events, student organizations at Duke University not only enhance the campus experience but also provide platforms for students to explore interests, develop skills, and engage with the community.",0.6320417846551738,0.06746491337013094,0.8,0.9,13.917994976043701
+Campus Events,What measures has Duke University implemented to ensure the safety and security of attendees during large on-campus events?,"Duke University has implemented a range of measures to ensure the safety and security of attendees during large on-campus events. These include:
 
-1. **Risk Assessment**: Event organizers must conduct a risk assessment for events, especially those with more than 50 attendees, which may require a security assessment by Duke University Police to evaluate the need for additional safety precautions.
+1. **Risk Assessment**: Event organizers are required to conduct a risk assessment and implement appropriate safety measures tailored to the event.
 
-2. **Collaboration with Security**: Organizers are required to collaborate with the Duke University Police as directed and may need to provide additional personnel or staff for larger events.
+2. **Security Assessment**: For events with over 50 attendees, a security assessment by the Duke University Police is mandatory to determine if additional safety precautions are necessary.
 
-3. **Identification Requirement**: All attendees must display valid Duke ID upon request from university officials. External participants are required to carry a valid government-issued ID.
+3. **Collaboration with Police**: Organizers must collaborate with Duke University Police regarding security needs and may be required to supply additional staffing for larger events.
 
-4. **Emergency Protocols**: The university reserves the right to cancel events in cases of severe weather, public health emergencies, or other safety concerns, ensuring the safety of all participants.
+4. **Identification Requirements**: All attendees are required to carry and display valid Duke ID or a government-issued ID when requested. This ensures that only authorized participants are present.
 
-5. **Violations and Consequences**: The university has strict policies regarding compliance. Any non-compliance may lead to cancellation of the event, disciplinary actions against university members, and potential future hosting prohibitions.
+5. **Cancellation Rights**: Duke reserves the right to cancel events that fail to comply with safety policies, particularly in response to severe weather, public health emergencies, or other significant safety concerns.
 
-These policies are designed to maintain a safe environment and are part of the university's broader commitment to the well-being of its community during events. For more detailed information, you can refer to the official policy page [here](https://students.duke.edu/belonging/space-finder/events-and-activities-policy/).","Duke University, like many other institutions, takes the safety and security of attendees at large on-campus events seriously. While specific measures can vary depending on the nature of the event, here are some general strategies and protocols that are often implemented:
+6. **Disciplinary Action**: Violations of safety policies can lead to disciplinary action against university members and may result in the loss of event sponsorship rights or recognition status for student organizations.
+
+These measures are part of a broader policy framework designed to manage events effectively while prioritizing the safety and well-being of the university community. More details can be found in the [University Events and Activities Policies](https://students.duke.edu/belonging/space-finder/events-and-activities-policy/).","Duke University, like many other institutions, takes the safety and security of attendees at large on-campus events seriously. While specific measures can vary depending on the nature of the event, here are some general strategies and protocols that are often implemented:
 
 1. **Event Security Planning**: Detailed security plans are developed for large events, which include risk assessments, emergency response procedures, and coordination with local law enforcement and emergency services.
 
@@ -942,12 +962,18 @@ These policies are designed to maintain a safe environment and are part of the u
 
 10. **Collaboration with Law Enforcement**: Close collaboration with local law enforcement and other agencies ensures a coordinated approach to safety and security.
 
-The specific measures are tailored to the event's size, type, and location, and they are subject to change based on assessed risks and feedback from past events.",0.5268986196019602,0.03116455938028718
-Campus Events,"How is virtual or hybrid event hosting being integrated into Duke University's campus events, and what technologies are being utilized?","Duke University has integrated virtual and hybrid event hosting into its campus events through a series of planned processes and guidelines. The management of these events is overseen by Campus Life, which includes Conference and Event Services (CES), Venue and Production Management (VPM), and Student Involvement & Leadership (SIL). This structure ensures that both in-person and virtual attendees have a cohesive experience.
+The specific measures are tailored to the event's size, type, and location, and they are subject to change based on assessed risks and feedback from past events.",0.5474379583904525,0.034532806035175535,0.7,0.6,13.37024998664856
+Campus Events,"How is virtual or hybrid event hosting being integrated into Duke University's campus events, and what technologies are being utilized?","At Duke University, virtual and hybrid event hosting is integrated into campus events using various technologies, primarily focusing on enhancing connectivity and ensuring inclusivity for both in-person and online participants. 
 
-Specifically, hybrid meetings at Duke require advance planning, which encompasses knowing if the meetings will have real or virtual components. Event organizers are responsible for managing all aspects of the event, including arranging necessary facilities like audio-visual equipment tailored for hybrid needs. The technology involved includes video conferencing tools, streaming platforms, and various AV equipment that allows remote participants to engage as if they were physically present.
+One of the key technologies utilized is Zoom, which is equipped in meeting rooms across campus. This allows hybrid teams to engage effectively during events, enabling a seamless blend of physical and virtual interactions. Zoom’s capabilities facilitate real-time participation, where remote attendees can view presentations, contribute to discussions, and collaborate using shared digital tools.
 
-Furthermore, the university articulates clarity on who can host events (both internal groups and external organizations), ensuring compliance with policies and safety procedures while promoting inclusivity and accessibility. All these frameworks and technologies work synergistically to create a dynamic and engaging campus experience that accommodates the changing landscape of event hosting.","Duke University, like many institutions, has embraced virtual and hybrid event hosting to enhance engagement and accessibility for campus events. This integration is reflective of broader trends in academia, driven by the necessity of remote interactions during the COVID-19 pandemic and a continued interest in flexible attendance options. Here are some ways Duke has integrated virtual and hybrid hosting:
+Event organizers at Duke must adhere to specific guidelines and logistical considerations. For instance, all events must be registered and approved in advance, including details about the event, such as anticipated size and whether it requires audio-visual equipment. The registration process emphasized the importance of having a designated point of contact throughout the event to ensure smooth execution.
+
+Duke has implemented a structure that encourages inclusivity by making hybrid events accessible to the broader Duke community. Event organizers are responsible for ensuring that the event fits within operational hours and does not disrupt regular university functions.
+
+Overall, the integration of virtual/hybrid technologies at Duke University demonstrates a commitment to fostering community engagement and innovation, adapting to the evolving needs of the academic environment while prioritizing health and safety for all participants. 
+
+For more information on conducting hybrid meetings at Duke, refer to the article on Duke Today: [How to Conduct Hybrid Meetings](https://today.duke.edu/2021/11/how-conduct-hybrid-meetings).","Duke University, like many institutions, has embraced virtual and hybrid event hosting to enhance engagement and accessibility for campus events. This integration is reflective of broader trends in academia, driven by the necessity of remote interactions during the COVID-19 pandemic and a continued interest in flexible attendance options. Here are some ways Duke has integrated virtual and hybrid hosting:
 
 1. **Technology Platforms**: Duke utilizes various platforms to facilitate virtual and hybrid events. These often include Zoom for videoconferencing, Panopto for lecture capture, and social media platforms for live streaming. They may also use specialized event management software like Cvent or Eventbrite for registration and logistics.
 
@@ -961,24 +987,22 @@ Furthermore, the university articulates clarity on who can host events (both int
 
 6. **Accessibility and Inclusivity**: Virtual and hybrid events have enabled greater accessibility and inclusivity, allowing individuals who might face geographic, physical, or scheduling barriers to participate in campus events.
 
-Through these methods, Duke University continues to create dynamic and accessible event experiences that cater to a diverse audience, regardless of their location.",0.645424846571871,0.03425310903687076
-Campus Events,"Are there opportunities for alumni involvement in campus events at Duke University, and how does the university engage with its alumni community through events?","Duke University offers numerous opportunities for alumni involvement in campus events as part of its commitment to engaging its alumni community. The Duke Alumni Association organizes various events and programs aimed at inspiring, connecting, and empowering alumni throughout the world. These events are designed to keep alumni engaged with their alma mater and each other.
+Through these methods, Duke University continues to create dynamic and accessible event experiences that cater to a diverse audience, regardless of their location.",0.6149798299595649,0.030566690186213972,0.8,0.7,16.925480365753174
+Campus Events,"Are there opportunities for alumni involvement in campus events at Duke University, and how does the university engage with its alumni community through events?","Duke University actively engages its alumni community through a variety of events and programs designed to foster connection and empowerment. Alumni have numerous opportunities to get involved in campus events. These include:
 
-### Key Opportunities for Alumni Involvement:
+1. **Alumni Events & Programs**: Duke offers exclusive events tailored for alumni around the world. These events are designed to inspire, connect, and empower the alumni community. Information about these events can be found on the Duke Alumni Association’s website.
 
-1. **Events & Programs**: The university hosts exclusive events where alumni can reconnect, network, and participate in various activities. These events include social gatherings, academic events, speaker series, and workshops.
+2. **Reunions**: Alumni can participate in reunions which serve as a wonderful opportunity for networking, reconnecting with classmates and faculty, and celebrating their time at Duke.
 
-2. **Reunions**: Alumni are encouraged to participate in reunions, where they can celebrate with their classmates and engage with current students and faculty.
+3. **Networking Opportunities**: Alumni can engage through networking events that allow them to connect with fellow graduates and build professional relationships within various fields.
 
-3. **Special Interest Groups**: Alumni can join specific groups based on their interests or professions, which often leads to additional networking opportunities and events tailored to those interests.
+4. **Volunteering**: Opportunities to volunteer for alumni events help strengthen the community ties and allow alumni to give back to Duke, whether through mentoring current students or participating in planning events.
 
-4. **Volunteer Positions**: Alumni can also serve in various volunteer capacities, which may involve planning events, mentoring current students, or participating in alumni panels.
+5. **Event Contributions**: Alumni can sometimes contribute by hosting events or speaking at panels and workshops, thus sharing their experiences and expertise with current students.
 
-5. **Digital Engagement**: Virtual events and webinars have become a popular way for alumni to stay connected, especially post-pandemic.
+For more information about specific alumni events and programs, you can visit the Duke Alumni Association's events page [here](https://alumni.duke.edu/events-programs). 
 
-For a comprehensive list of these opportunities and upcoming events, alumni can visit the [Duke Alumni Events & Programs page](https://alumni.duke.edu/events-programs).
-
-This structured engagement demonstrates Duke University's dedication to maintaining strong connections with its alumni community through interactive and meaningful experiences.","Yes, Duke University offers numerous opportunities for alumni involvement in campus events, actively engaging its alumni community in various meaningful ways. Here are some of the ways Duke engages with its alumni through events:
+Duke University encourages continuous involvement from its alumni, recognizing the value they bring to the campus culture and community.","Yes, Duke University offers numerous opportunities for alumni involvement in campus events, actively engaging its alumni community in various meaningful ways. Here are some of the ways Duke engages with its alumni through events:
 
 1. **Reunions and Homecomings**: Duke organizes regular reunion and homecoming events that invite alumni back to campus. These events provide opportunities for alumni to reconnect with classmates, engage in social activities, and participate in discussions or panels.
 
@@ -994,4 +1018,4 @@ This structured engagement demonstrates Duke University's dedication to maintain
 
 7. **Virtual Engagements**: In recent years, Duke has increased its virtual offerings, allowing alumni to participate in events like webinars, virtual reunions, and online discussions, making it easier for those unable to travel to stay connected.
 
-Through these events and initiatives, Duke University maintains a strong and active alumni network, promoting engagement and lifelong connection to the university community.",0.8050121894536095,0.09430364155153771
+Through these events and initiatives, Duke University maintains a strong and active alumni network, promoting engagement and lifelong connection to the university community.",0.7840694374740254,1.25385623725037e-78,0.9,0.8,12.55448293685913
