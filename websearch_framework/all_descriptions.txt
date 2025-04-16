@@ -1,0 +1,232 @@
+The history and narrative that explains the legacy and mission of Duke’s Pratt School of Engineering.
+---ITEM_SEPARATOR---
+A personal welcome message and overview from the dean outlining the school’s vision.
+---ITEM_SEPARATOR---
+Details on the long-term goals and strategic initiatives of the school.
+---ITEM_SEPARATOR---
+Highlights the key research and educational themes driving innovation at Pratt.
+---ITEM_SEPARATOR---
+An in-depth timeline covering the evolution and milestones of the school.
+---ITEM_SEPARATOR---
+Outlines Pratt’s commitment to diversity, equity, and building an inclusive community.
+---ITEM_SEPARATOR---
+Showcases the school’s emphasis on character, integrity, and ethics in education.
+---ITEM_SEPARATOR---
+Introduces the dean’s office staff who support the leadership of the school.
+---ITEM_SEPARATOR---
+Provides information about the advisory board of visitors that support the school’s direction.
+---ITEM_SEPARATOR---
+A searchable directory of faculty, staff, and key contacts at Pratt.
+---ITEM_SEPARATOR---
+Lists job opportunities and career resources available at the school.
+---ITEM_SEPARATOR---
+Details for prospective visitors including campus tour information.
+---ITEM_SEPARATOR---
+Highlights honors and awards received by Pratt faculty from external organizations.
+---ITEM_SEPARATOR---
+Lists Pratt affiliates and alumni who have been elected to the National Academy of Engineering.
+---ITEM_SEPARATOR---
+Summarizes awards and recognitions that are specific to the school.
+---ITEM_SEPARATOR---
+Resources for prospective undergraduate applicants, including requirements and tips.
+---ITEM_SEPARATOR---
+Describes the innovative first-year design program emphasizing real-life problem solving.
+---ITEM_SEPARATOR---
+Data and success stories showcasing the outcomes for undergraduate students.
+---ITEM_SEPARATOR---
+Detailed application process and information for prospective master’s degree applicants.
+---ITEM_SEPARATOR---
+Outcome data and success stories for master’s program graduates.
+---ITEM_SEPARATOR---
+Application details, criteria, and research opportunities for PhD candidates.
+---ITEM_SEPARATOR---
+Career trajectories and achievements of PhD graduates from Pratt.
+---ITEM_SEPARATOR---
+Information on scholarships, grants, and financial aid options for students.
+---ITEM_SEPARATOR---
+Guidance and resources for applicants who have been admitted to the program.
+---ITEM_SEPARATOR---
+Support and application resources targeted at international students.
+---ITEM_SEPARATOR---
+Information on scheduling and participating in campus tours.
+---ITEM_SEPARATOR---
+Overview of the Biomedical Engineering department’s academic and research offerings.
+---ITEM_SEPARATOR---
+Details on the Civil & Environmental Engineering department’s programs and research focus.
+---ITEM_SEPARATOR---
+Information on the Electrical & Computer Engineering department, highlighting digital systems and innovations.
+---ITEM_SEPARATOR---
+Overview of the Mechanical Engineering & Materials Science department’s programs and research breakthroughs.
+---ITEM_SEPARATOR---
+Showcases interdisciplinary programs that merge technical expertise with entrepreneurship.
+---ITEM_SEPARATOR---
+A complete directory of academic leaders and research faculty at Pratt.
+---ITEM_SEPARATOR---
+Describes the comprehensive educational experience of undergraduate students.
+---ITEM_SEPARATOR---
+Outlines the degree and graduation requirements for Pratt undergraduate programs.
+---ITEM_SEPARATOR---
+Details the available majors, minors, and interdisciplinary options within engineering.
+---ITEM_SEPARATOR---
+Explains the combined bachelor’s and master’s degree program (4+1).
+---ITEM_SEPARATOR---
+Focuses on the orientation and initial student experiences during the first year.
+---ITEM_SEPARATOR---
+Highlights student initiatives and opportunities in entrepreneurship.
+---ITEM_SEPARATOR---
+Provides details about undergraduate research opportunities at Pratt.
+---ITEM_SEPARATOR---
+Describes the immersive learning environment in master’s programs.
+---ITEM_SEPARATOR---
+Summarizes the various master’s degree options available at the school.
+---ITEM_SEPARATOR---
+Information on the doctoral programs, research requirements, and career paths for PhD candidates.
+---ITEM_SEPARATOR---
+Explores available professional and interdisciplinary certificate options.
+---ITEM_SEPARATOR---
+Features student life, extracurricular activities, and community events at Pratt.
+---ITEM_SEPARATOR---
+Lists student organizations, clubs, and teams enhancing campus life.
+---ITEM_SEPARATOR---
+Provides insights into living in Durham and how it enriches the student experience.
+---ITEM_SEPARATOR---
+A one-stop page for academic support, counseling, and other resources for undergraduates.
+---ITEM_SEPARATOR---
+Support services, professional development, and resources for graduate students.
+---ITEM_SEPARATOR---
+Information on academic advising and mentoring programs at Pratt.
+---ITEM_SEPARATOR---
+Connects students with internship opportunities and career planning support.
+---ITEM_SEPARATOR---
+Specialized resources for the professional development of doctoral students.
+---ITEM_SEPARATOR---
+Detailed academic policies and procedures for undergraduate students.
+---ITEM_SEPARATOR---
+Resources and support to help students initiate and fund research projects.
+---ITEM_SEPARATOR---
+Highlights the school’s key research themes and areas of innovation.
+---ITEM_SEPARATOR---
+Showcases major external research awards and grants received by Pratt teams.
+---ITEM_SEPARATOR---
+Lists research centers and institutes that foster interdisciplinary collaboration.
+---ITEM_SEPARATOR---
+Celebrates significant innovations and discoveries developed at Pratt.
+---ITEM_SEPARATOR---
+Overview of research initiatives that have led to startup ventures and technology transfer.
+---ITEM_SEPARATOR---
+Explains how Pratt engages with local and global communities to solve real-world problems.
+---ITEM_SEPARATOR---
+The comprehensive impact report detailing research achievements and funding statistics for 2024.
+---ITEM_SEPARATOR---
+Aggregates the latest news, press releases, and updates from Pratt School.
+---ITEM_SEPARATOR---
+A collection of media stories and press coverage featuring Pratt’s accomplishments.
+---ITEM_SEPARATOR---
+Contact and information page for media inquiries related to Pratt.
+---ITEM_SEPARATOR---
+Digital and printed magazines produced by or featuring the work of the Pratt community.
+---ITEM_SEPARATOR---
+Subscription page for regular email newsletters and news updates.
+---ITEM_SEPARATOR---
+A podcast series with interviews and discussions on breakthrough engineering ideas.
+---ITEM_SEPARATOR---
+A calendar of upcoming events, seminars, and public lectures hosted by the school.
+---ITEM_SEPARATOR---
+Details and highlights of the commencement and graduation ceremonies at Pratt.
+---ITEM_SEPARATOR---
+Information on Engineers Week events that feature workshops, talks, and networking sessions.
+---ITEM_SEPARATOR---
+Dedicated resources and news for Pratt alumni to stay engaged with the community.
+---ITEM_SEPARATOR---
+Information and resources specifically for the parents of current and prospective students.
+---ITEM_SEPARATOR---
+Opportunities and information on donating to support Pratt’s initiatives.
+---ITEM_SEPARATOR---
+Connects industry partners with academic research and innovation at Pratt.
+---ITEM_SEPARATOR---
+Highlights programs that involve students in industry projects and real-world work.
+---ITEM_SEPARATOR---
+A platform for companies and organizations to affiliate with Pratt.
+---ITEM_SEPARATOR---
+The central starting point for prospective students beginning the application process.
+---ITEM_SEPARATOR---
+Pratt’s official Facebook page, featuring campus updates and success stories.
+---ITEM_SEPARATOR---
+The official Instagram account showing visual snapshots and behind‑the‑scenes at Pratt.
+---ITEM_SEPARATOR---
+The official YouTube channel with videos on research highlights and student experiences.
+---ITEM_SEPARATOR---
+A LinkedIn page showcasing career opportunities and professional news for Pratt.
+---ITEM_SEPARATOR---
+A contact page with inquiry forms and directions to the Pratt School.
+---ITEM_SEPARATOR---
+A dedicated page outlining Duke’s accessibility features and inclusive design resources.
+---ITEM_SEPARATOR---
+A form for reporting website issues or technical problems on the Pratt site.
+---ITEM_SEPARATOR---
+Details about Duke’s data usage, cookies, and privacy policies.
+---ITEM_SEPARATOR---
+The official website for Duke’s Biomedical Engineering program with academic and research information.
+---ITEM_SEPARATOR---
+Showcases Duke Civil & Environmental Engineering programs and sustainability projects.
+---ITEM_SEPARATOR---
+Highlights advanced topics and research in Duke Electrical & Computer Engineering.
+---ITEM_SEPARATOR---
+Details academic programs and breakthroughs in Duke Mechanical Engineering & Materials Science.
+---ITEM_SEPARATOR---
+Focuses on interdisciplinary enterprise engineering combining technical skills with entrepreneurship.
+---ITEM_SEPARATOR---
+The central portal for research initiatives and interdisciplinary projects at Duke University.
+---ITEM_SEPARATOR---
+The main website for Duke University, providing overall information on academics and campus life.
+---ITEM_SEPARATOR---
+The official admissions site for Duke University’s undergraduate programs.
+---ITEM_SEPARATOR---
+Duke Kunshan University provides an international, interdisciplinary educational experience.
+---ITEM_SEPARATOR---
+The official site for the Nasher Museum of Art featuring exhibitions and cultural events.
+---ITEM_SEPARATOR---
+Duke University Libraries offers research resources and academic support services.
+---ITEM_SEPARATOR---
+The Duke Alumni site for networking, events, and career services post-graduation.
+---ITEM_SEPARATOR---
+The official athletics site for Duke University’s Blue Devils sports teams.
+---ITEM_SEPARATOR---
+Information on Duke University Health System’s clinical and research initiatives.
+---ITEM_SEPARATOR---
+A portal to support startups and entrepreneurial initiatives stemming from Duke’s research.
+---ITEM_SEPARATOR---
+Showcases Duke Global Health Institute’s interdisciplinary research on global health issues.
+---ITEM_SEPARATOR---
+The official website for Duke Divinity School, featuring academic programs and community outreach.
+---ITEM_SEPARATOR---
+Provides information about Duke Fuqua School of Business and its MBA and executive programs.
+---ITEM_SEPARATOR---
+Offers details on public policy programs and research addressing national and global issues.
+---ITEM_SEPARATOR---
+The official website for Duke Law School with academic programs and legal research.
+---ITEM_SEPARATOR---
+Comprehensive information on Duke University School of Medicine’s education and training.
+---ITEM_SEPARATOR---
+Highlights research and academic programs in Duke’s Computer Science Department.
+---ITEM_SEPARATOR---
+Details academic programs and research opportunities in Duke’s Mathematics Department.
+---ITEM_SEPARATOR---
+The official Twitter account for Duke Engineering, sharing real-time news and updates.
+---ITEM_SEPARATOR---
+Provides career services, internships, and job placement resources for Duke students.
+---ITEM_SEPARATOR---
+Features Duke’s sustainability initiatives and green technology projects.
+---ITEM_SEPARATOR---
+An internal resource on research administration and interdisciplinary projects at Duke.
+---ITEM_SEPARATOR---
+The independent student-run newspaper reporting on campus news at Duke.
+---ITEM_SEPARATOR---
+A publication that highlights achievements and breakthrough stories from Duke’s community.
+---ITEM_SEPARATOR---
+Provides campus services, programming, and support for student life at Duke.
+---ITEM_SEPARATOR---
+Details specific projects and programs focused on sustainability at Duke.
+---ITEM_SEPARATOR---
+The official Duke research news site with updates on breakthroughs and campus discoveries.
+---ITEM_SEPARATOR---

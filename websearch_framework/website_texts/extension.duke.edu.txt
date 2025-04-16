@@ -1,0 +1,318 @@
+Blog
+About
+FAQ / Contact Us
+.
+.
+.
+.
+Courses
+Programs
+Faculty
+Courses
+Programs
+Faculty
+About
+FAQ / Contact us
+Courses
+list
+grid
+Filter / search courses
+School
+School
+Continuing Studies
+Divinity School
+Duke Corporate Education
+Duke Health
+Duke Law School
+Fuqua School of Business
+Nicholas School of the Environment
+Pratt School of Engineering
+Sanford School of Public Policy
+School of Medicine
+School of Nursing
+Trinity College of Arts & Sciences
+Subject
+Subject
+Arts
+Biology & Life Sciences
+Business & Management
+Chemistry
+Computer Science
+Economics & Finance
+Education
+Engineering
+Environmental Studies
+Health & Medicine
+Humanities
+Law
+Mathematics
+Public Policy
+Religion
+Social Sciences
+Statistics & Data Analysis
+Credential
+Credential
+Degrees
+For-credit certificates
+Instructor-led courses
+Microlearning
+Non-credit certificates
+Self-paced courses
+Specializations
+Search
+>
+.
+>
+filter courses
+All Filters
+0
+School
+see all
+.
+School
+Continuing Studies
+Divinity School
+Duke Corporate Education
+Duke Health
+Duke Law School
+Fuqua School of Business
+Nicholas School of the Environment
+Pratt School of Engineering
+Sanford School of Public Policy
+School of Medicine
+School of Nursing
+Trinity College of Arts & Sciences
+Subject
+see all
+.
+Subject
+Arts
+Biology & Life Sciences
+Business & Management
+Chemistry
+Computer Science
+Economics & Finance
+Education
+Engineering
+Environmental Studies
+Health & Medicine
+Humanities
+Law
+Mathematics
+Public Policy
+Religion
+Social Sciences
+Statistics & Data Analysis
+Credential / Type
+see all
+.
+Credential / Type
+Degrees
+For-credit certificates
+Instructor-led courses
+Microlearning
+Non-credit certificates
+Self-paced courses
+Specializations
+view courses
+Enroll Now
+Religion
+/ Self-paced courses
+Psalms & The Arts: Encountering God in Grief and Gratitude
+The Psalms offer a path to express a range of human emotion and to encounter God in a new way. In times of great joy or deep grief, how might the P...
+>>
+Enroll Now
+Religion
+/ Self-paced courses
+Human Resource Stewardship for Churches
+Most clergy graduate from seminary or divinity school without coursework or training or exposure to church administration, church management, or hu...
+>>
+Enroll Now
+Computer Science
+/ Self-paced courses
+Data Visualization and Modeling in Python
+Put the keystone in your Python Data Science skills by becoming proficient with Data Visualization and Modeling. This course is suited for intermed...
+>>
+Enroll Now
+Computer Science
+/ Self-paced courses
+Designing Larger Python Programs for Data Science
+Modern programs are complicated structures, with hundreds to thousands of lines of code, but how do you efficiently move from smaller programs to m...
+>>
+Enroll Now
+Computer Science
+/ Self-paced courses
+Pandas for Data Science
+How can you effectively use Python to clean, sort, and store data? What are the benefits of using the Pandas library for data science? What best pr...
+>>
+Enroll Now
+Computer Science
+/ Self-paced courses
+Data Science with NumPy, Sets, and Dictionaries
+Become proficient in NumPy, a fundamental Python package crucial for careers in data science. This comprehensive course is tailored to novice progr...
+>>
+Enroll Now
+Computer Science
+/ Self-paced courses
+Python Programming Fundamentals
+This introductory course is designed for beginners and individuals with limited programming experience who want to embark on their software develop...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+Foundations of Value Creation
+In this course, you will learn how positive spread, healthy cash flows, meeting investor expectations, and sustaining competitive advantage are ess...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+Digital Transformation for Agile Organizations
+In this course, you will learn how digital technologies are reshaping industries and creating new opportunities for agile organizations. You will e...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+Customer-Centric Innovation
+In this course, you will explore how to develop agile business strategies focused on delivering value to customers in dynamic markets. You will lea...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+Agile Strategy for Competitive Advantage
+In this course, you will learn how to identify and capitalize on transient sources of competitive advantage in today’s fast-paced business environm...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+Agile Team Leadership
+In this course, you will learn how to build and lead agile teams that can quickly respond to changing market conditions and drive innovation. You w...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+Building an Agile Culture for Your Organization
+In this course, you will learn how to build an agile culture that embraces change and fosters innovation. You will explore the key attributes of an...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+Purpose-Driven Leadership for Strategy and Innovation
+In this course, you will explore how organizational purpose provides clarity and direction amidst uncertainty. Purpose acts as an anchor, offering ...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+Agile Decision-Making Frameworks
+In this course, you will learn how to make strategic decisions quickly and effectively in uncertain and complex environments. You will explore fram...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+Data Science for Agile Decision-Making
+This course focuses on how data science can be used to make more informed and agile business decisions. You will learn how to collect, analyze, and...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+Agile Dashboards for Data-Driven Decision-Making
+In this course, you will learn how to build and utilize agile dashboards that provide real-time insights into your organization’s performance. You ...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+How to Prioritize ESG Initiatives
+This course introduces participants to ESG materiality and provides the tools needed to prioritize impactful initiatives. Learners will explore the...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+ESG Mindsets for Business Transformation
+This course explores the transformative power of adopting the right mindsets for successful ESG implementation. Participants will discover solution...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+ESG Challenges and Solutions for Business
+This course tackles the barriers and challenges that hinder the adoption of Environmental, Social, and Governance (ESG) practices. Learners will ex...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+ESG Value Creation for Business Impact
+This course examines how Environmental, Social, and Governance (ESG) principles create value for businesses, society, and the planet. Participants ...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+ESG Communication for Inclusive Dialogue
+This course invites participants to explore the emotive and often contentious nature of Environmental, Social, and Governance (ESG) topics, offerin...
+>>
+Enroll Now
+Business & Management
+/ Self-paced courses
+ESG Essentials for Sustainable Business
+This beginner-friendly course provides a foundational introduction to Environmental, Social, and Governance (ESG) principles and their critical rol...
+>>
+Enroll Now
+Computer Science
+/ Self-paced courses
+Data Science Ethics with R
+This course is your third course that highlights the ethical responsibilities we have as statisticians and data scientists when working with data. ...
+>>
+LOAD MORE COURSES>
+Resources + offers
+Faculty
+&
+Current Students.
+Discover Opportunities
+Newsletter
+Get Updates, News
+&
+Announcements.
+Email
+*
+Δ
+Contact
+Duke Learning Innovation & Lifetime Education
+2024 West Main Street
+Durham, NC 27705
+(919) 660-5806
+.
+.
+.
+.
+Site Nav
+Home
+Courses
+Programs
+Faculty
+About
+.
+.
+.
+.
+Contact
+2024 West Main Street
+Durham, NC 27705
+(919) 660-5806
+Duke Learning Innovation & Lifetime Education
+Students
+Faculty
+Staff
+Visitors
+Alumni
+News Media
+.
+.
+.
+.
+Duke University Durham, NC 27708
+(919) 684-8111
+Maps
+Employment
+MyDuke
+Style Guide
+Emergency
+Contact Us
+Search for:
+Search Button

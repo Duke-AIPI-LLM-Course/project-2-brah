@@ -1,0 +1,278 @@
+Degree | Duke Engineering Master's Programs
+Apply
+Menu
+Admissions
+Why Duke?
+How to Apply
+Tuition & Financial Aid
+Admitted Students
+Academic Programs
+Degree Programs
+Certificates & Specializations
+Degree Requirements
+Flexible Options
+Life at Duke
+Life at Duke
+Career Services
+Student Resources
+News & Events
+News
+Events
+Search
+Submit
+Student Resources
+Careers
+Directory
+Apply
+Degree Details
+Duke's program is recognized as one of the top applied AI/ML graduate programs in the world
+Explore Curriculum
+Contact Admissions
+Artificial Intelligence
+Program Overview
+Degree Details
+Certificate Details
+AI Graduate Courses
+Faculty
+Leadership & Staff
+News
+Student Resources
+Request Info
+How to Apply
+Go to...
+Artificial Intelligence
+Program Overview
+Degree Details
+Certificate Details
+AI Graduate Courses
+Faculty
+Leadership & Staff
+News
+Student Resources
+Request Info
+How to Apply
+Degree Details
+Duke’s program is recognized as one of the top applied AI/ML graduate programs in the world
+Explore Curriculum
+Contact Admissions
+Overview
+Our Master of Engineering in Artificial Intelligence for Product Innovation students develop strong technical skills in AI and machine learning coupled with a deep understanding of how to design and build AI-powered software products.
+Graduates go on
+to work in leading companies
+solving challenging problems across many industries—including tech, healthcare, energy, retail, transportation, and finance. Some of our students go on to found their own entrepreneurial ventures.
+At Duke, you’ll learn to:
+Design and develop machine learning systems
+for scale, security and usability
+Apply traditional machine learning and deep learning models
+to solve challenging problems across domains
+Build full-stack software applications
+integrating machine learning models utilizing the latest methods and technologies
+Design and deploy software applications
+in production
+This program may be for you if you have an educational or work background in engineering, science or technology and aspire to a career working hands-on in AI. See our
+application requirements
+for details.
+Industry-Connected Curriculum
+This degree’s core curriculum was developed in collaboration with the industry.
+Build a personal portfolio
+of real-world, hands-on AI and machine-learning projects
+Receive individual advising
+, academic and career, from outstanding, world-class faculty
+Be engaged with peers
+from around the world as part of a small, intimate, and immersive cohort
+We prepare graduates who are ready to solve problems on the job, starting on Day 1.
+Our curriculum covers the theory and application of AI and machine learning, heavily emphasizing hands-on learning via real-world problems and projects in each course.
+Students also have two opportunities to work directly with industry leaders during the program: through the semester-long industry project and their summer internship.
+Flexibility and Options
+12 or 16 month on-campus or 24 months online
+Innovative and immersive, you can complete this Duke master’s degree in
+12 or 16 months on-campus
+, or
+online part-time in just 24 months
+.
+12-Month Accelerated Option
+Significantly more affordable
+than a traditional master’s program—in this option, pay tuition for only two (2) full semesters plus three (3) summer session credits.
+16-Month Standard Track
+Pursue this degree over three (3) full semesters plus the summer session—allowing you time to take additional electives and specialize. Students pursuing this path may take a partial or whole load of courses during their final semester.
+4+1: BSE + Master’s Option for Duke Undergraduates
+Duke undergraduate students can complete undergrad
+and
+this master’s degree in just five (5) years.
+Scholarship opportunity:
+The AI 4+1 BSE+Master’s scholarship covers 20 percent of the costs. Eligibility and other conditions apply.
+MD + MEng in Artificial Intelligence Dual Degree
+Medical students at Duke can complete this degree during their third year. See
+School of Medicine bulletin
+for details.
+Scholarship opportunity:
+The MD+MEng AI scholarship covers 20 percent of the costs. Eligibility and other conditions apply.
+Curriculum Schedules
+The core of the curriculum follows a cohort-based course sequence. Select an option to view the schedule options.
+On-Campus Accelerated Option: 12 Months
+Summer
+Fall
+Spring
+Summer
+Pre-requisite
+AIPI 503: Python & Data Science Math Bootcamp
+AIPI 510: Sourcing Data for Analytics
+MENG 540: Management of High-tech Industries
+AIPI 560: Legal, Societal & Ethical Implications of AI
+AIPI 520: Modeling Process & Algorithms
+AIPI 540: Deep Learning Applications
+AIPI 561: Operationalizing AI (MLOps)
+AIPI Departmental Elective
+AIPI 549: Industry Capstone Project
+Industry Internship or Project
+MENG 570: Business Fundamentals for Engineers
+Technical Elective 1
+AIPI 501: Industry Seminar Series
+Technical Elective 2
+EGR 590: Career Strategy & Design
+On-Campus Standard Track: 16 Months
+Summer
+Fall 1
+Spring
+Summer
+Fall 2
+Pre-requisite—
+AIPI 503: Python & Data Science Math Bootcamp
+AIPI 510: Sourcing Data for Analytics
+AIPI 540: Deep Learning Applications
+AIPI 560: Legal, Societal & Ethical Implications of AI
+AIPI Departmental Elective
+AIPI 520: Modeling Process & Algorithms
+AIPI 549: Industry Capstone Project
+AIPI 561: Operationalizing AI (MLOps)
+Technical Elective 2
+MENG 570: Business Fundamentals for Engineers
+MENG 540: Management of High-Tech Industries
+Industry Internship or Project
+AIPI 501: Industry Seminar Series
+Technical Elective 1
+EGR 590: Career Strategy & Design
+Part-Time Online: 24 Months
+Pre-Program
+Year 1
+Summer
+Fall
+Spring
+Summer
+Pre-requisite
+AIPI 503:
+Python & Data Science Math Bootcamp
+AIPI 510:
+Sourcing Data for Analytics
+AIPI 520:
+Modeling Process & Algorithms
+AIPI 540:
+Deep Learning Applications
+MENG 570:
+Business
+Fundamentals for Engineers
+MENG 540:
+Management of
+High-Tech Industries
+AIPI 501:
+Industry Seminar Series
+On-Campus
+Residency
+Year 2
+Fall
+Spring
+Summer
+AIPI
+Departmental Elective
+AIPI 549:
+Industry Capstone Project
+AIPI 560: Legal,
+Societal & Ethical Implications of AI
+Technical
+Elective 1
+Technical
+Elective 3
+AIPI 561: Operationalizing
+AI (MLOps)
+On-Campus Residency
+Degree Requirements
+Pre-Program Bootcamp
+Summer Online Python & Data Science Math Boot Camp
+10 Courses
+Four (4)
+Technical AI/ML courses
+—a strong technical foundation
+Three (3)
+Product Development courses
+—developed with Duke’s Law School and Fuqua School of Business including the business, legal & ethical aspects of AI products
+Three (3)
+Technical electives
+—specialize in preparation for your chosen career
+Browse course descriptions
+2 Industry Experiences
+Industry project
+—design a solution to an authentic opportunity offered by a sponsoring organization
+A summer internship or industry project
+—gain industry experience
+Additional Requirements
+Learn from leaders building AI products during regular industry seminars
+Jump-start your professional development with our Career Strategy and Design workshop for
+on-campus
+students
+Meet peers and faculty during two (2) required residencies on the Duke campus for
+online
+students
+Compare Online and On-Campus
+The choice of online or on-campus is up to you – all students take the same courses, learn from the same faculty, and earn the same Duke degree.
+Item
+Online (part-time)
+On-Campus (full-time)
+Time to Degree
+24 months
+12 months or 16 months
+Python & Data Science Math Boot Camp
+Online 4-week part-time
+Online 4-week part-time
+Class Experience
+Live and recorded classes
+Online interaction with faculty and peers
+Class attendance at Duke
+In-person and online interaction with faculty and peers
+Professional Development
+Two spring residences on-campus at Duke
+Industry seminar series
+Industry seminar series
+Academic Advising
+Online interaction with a faculty advisor
+In-person interaction during on-campus residencies
+In-person and online interaction with a faculty advisor
+Career Services & Professional Development
+Support from
+career services professionals
+specialized in assisting engineering master’s students
+Support from
+career services professionals
+specialized in assisting engineering master’s students
+6-week Career Strategy and Design workshop
+Cost of Attendance & More Details
+Join Our Mailing LIst
+Duke Pratt School of Engineering Logo
+305 Teer Engineering Bldg
+Box 90271
+Durham, NC 27708
+(919) 660-5386
+Duke Engineering Now Newsletter
+Email
+Contact
+Industry Relations
+Visit
+Give
+Emergency Information
+Accessibility
+Report a Web Problem
+© Copyright
+— All Rights Reserved
+This website uses cookies as well as similar tools and technologies to understand visitors' experiences. By continuing to use this website, you consent to Duke University's usage of cookies and similar technologies, in accordance with the
+Duke Privacy Statement
+.
+I Accept
